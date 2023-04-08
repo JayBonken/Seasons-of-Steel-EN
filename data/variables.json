@@ -1,0 +1,12 @@
+{
+  "version": 2.12,
+  "variables": [
+    {
+      "code": "code1",
+      "type": "text",
+      "data": {
+        "value": "value1"
+      }
+    }
+  ]
+}

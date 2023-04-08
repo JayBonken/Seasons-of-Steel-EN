@@ -1,0 +1,1484 @@
+{
+  "version": 2.12,
+  "cardset_id": "43081c91-5ea7-4e1c-8b18-df4586be65fc",
+  "name": "Polania",
+  "blueprint_id": "bb89d069-0a55-4804-a488-5103e77acd4b",
+  "hint_order_index": 4,
+  "cards": [
+    {
+      "card_id": "cdb2895f-c9c8-41c4-8d01-cdc8556da567",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/legionaire.png",
+                "offset": "-0.003216617, 0.2526979",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Füge 1 Schaden, oder 2 wenn das Ziel bereits beschädigt ist, zu.\n\n<i>“Freiwillige aus der Fremde werden nur in ihrem Heimatland betrauert. Deshalb überrascht es nicht, dass sie meistens zu finden sind wo am heftigsten gekämpft wird.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Infanterie"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Legionär"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0b026637-2e89-421d-a704-1f8a6109d970",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/c2b225b4-fafa-41cd-a7b1-b4f1f5273c12.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Wähle eine gegnerische Karte: Gebe der Karte -2 Stärke.\n\n<i>“Gemacht um in Bewegung zu kämpfen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "PZM-9 \"Starznik\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4dd55407-67e0-4efc-abad-a27e92c97a28",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/0c1a3476-fdb6-4b36-9dd8-2b779f1db4c0.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Binde und ziehe Śmiały zurück: Ziehe eine gegnerische Truppe zurück.\n\n<i>“Ein Wunder Polanischer Ingenieurskunst. Nichts sagt “Verschwindet aus unserem Land!” so deutlich wie ein 4-Tonnen Bayonetangriff.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "PZM-7 \"Śmiały\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "33595f49-ad8b-4ee0-8726-db5ef0914e62",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Angriffsschreiter.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_asset.png",
+                "mask_uri": "%PROJECT%/neutral_card_template_asset_int.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Füge 3 Schaden zu.\n\n <i>\"Noch vor wenigen Jahren hätten Generäle von solcher Feuerkraft nicht mal zu träumen gewagt.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Mittelschwer -</b> Militärisch <b>-</b> Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Angriffschreiter"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "974bf2c1-cecd-4c67-a0eb-eb3e35f80b63",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "62f32f8c-62c4-47ce-8b62-65ebeb5d96fe",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/244e0e7e-5636-4e51-bf04-0cecdf55399c.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_asset_int.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Reaktion:</b> Einmal pro Jahreszeit, wenn du einer Karte Schaden zufügst: Füge ihr einen zusätzlichen Schaden zu.\n\n<i>“Wozu all diese Waffen wenn man nicht weiß auf was man sie richten soll?”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil -</b> Aufklärung"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Späher"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "974bf2c1-cecd-4c67-a0eb-eb3e35f80b63",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1b53a510-3737-47de-a0ac-f365bc1342f4",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Polonia_sharpshooter_concept.png",
+                "zoom": 1.7,
+                "offset": "0.0578991, -0.3054191",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_asset_int.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Wenn du eine eingesetzte Truppe kontrollierst: Füge 2 Schaden zu. Binde das Ziel wenn es eine Infantrie Truppe ist.\n\n<i>“Geduld und Präzision in ihrer tödlichsten Form.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil -</b> Aufklärung"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Versteckter Scharfschütze"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "974bf2c1-cecd-4c67-a0eb-eb3e35f80b63",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "400a1aa4-f23a-48db-9fa9-5c36d0a1d93c",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/5bf2e04c-b7f7-46e1-a0db-69e1784fab5b.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Füge 2 Schaden zu. Das Ziel erhält -1 Stärke für all seine Schadensmarker.\n\n<i>“An alle unterstellen Einheiten, zielt auf die Führerkabine. Feuer!”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Konzentriertes Feuer"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "11ae40c4-f9bc-47a9-945f-8633a8992c85",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/d5f0cd97-4b34-450e-855a-90afb90de530.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Gebe dieser Truppe +2X Stärke, wobei X die Anzahl deiner Unterstützungen ist.\n\n<i>“Kleine Nationen müssen sich zusammenschließen. Albion wünscht eine fröhliche Jagd.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Waffenlieferung"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f298e88d-8899-4d0f-9bab-e59a1efc903c",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/e9a964a9-9817-4b8c-a7dd-3972c73fceba.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Gebe allen gegnerischen eingesetzten Truppen -1 Stärke.\n\n<i>“Die großen Imperien haben Europa für Jahrhunderte Dominiert. Das endet Heute!”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gegen jeden Widerstand"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f8343ecc-cb43-4f7e-a8df-16d0b08369da",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/aa545b72-7847-4896-b328-25e5f0d3e48a.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Binde diese Truppe: Erhöhe oder reduziere die Resilienz des Verteidigers um ihre Stärke.\n\n<i>“Wir wissen für was wir kämpfen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Verteidige die Heimat"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b7764a18-c931-46e1-8ea2-b08db031c145",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Polanian_Riflemen.png",
+                "zoom": 0.9,
+                "offset": "0.09971511, 0.06181095",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Wenn diese Karte verteidigt und bereit ist, erhöhe deine Resilienz um 3.\n\n<i>“Der normal Schütze ist das schlagende Herz der polanischen Streitkräfte.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Infanterie"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Standfester Schütze"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f70f829b-f251-4caf-b5d9-4cf75c9677c3",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/752cdf6e-9968-487c-9e65-dfe9610f434f.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Tur kostet 1 weniger wenn er an einen politischen Plan vorbereitet ist. +1 Stärke für jeden deiner Unterstützungen. Kann im Gefecht von gegnerischen Karteneffekten weder zerstört noch zurückgezogen werden.\n\n<i>“Solange sie die Felder durchstreifen,\nist Polanien tatsächlich nicht verloren.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Schwer -</b> Militärisch <b>-</b> Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "PZM-24 \"Tur\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "65873b7c-9736-4439-b34e-68b2107119f8",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/463dc7cd-7a5a-4bed-9d49-791713fdba7a.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_asset_int.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Erhöhe deine Resilienz um 2 solange diese Karte im Spiel ist.\n\n<i>“Von allen Großmächten sieht nur Polania die Einheimischen als das, was sie sind: Menschen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil -</b> Aufklärung"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Lokaler Kontakt"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "974bf2c1-cecd-4c67-a0eb-eb3e35f80b63",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "53cd7b11-9160-4295-859a-380072de7a74",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Sprengfallen.png",
+                "offset": "0.001608308, -0.127258",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Du kannst die Kosten von Sprengfalle um 1 erhöhen um sie als <b>[-]</b> Befehl zu spielen.\n\n<b>Gefecht:</b> Wenn du der Verteidiger bist: Füge 2 Schaden zu. Erhöhe deine Resilienz für jede gegnerische eingesetzte gebrochene Karte um 1 für dieses Gefecht.\n\n<i>“Wir werden sie von unserem Land fernhalten, selbst wenn wir die Hälfte davon opfern müssen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Sprengfallen"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "eac6ea16-1455-49b1-b5a7-019f8d1581fc",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Hilfe aus der Bevölkerung.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Gebe dieser Truppe +X Stärke, wobei X deiner halben, aufgerundeten Resilienz entspricht.\n\n<i>“Wenn die Bevölkerung sich gegen eine Armee stellt, dann kämpft sie immer an zwei Fronten. Dieses Problem hat Polania nicht.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hilfe aus der Bevölkerung"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5ead9afe-daf9-4fc3-b9a0-4957a8abee76",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/c4d82c43-cf19-4a77-99da-e3e2745e1782.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Reaktion:</b> Nachdem ein Angriff auf dich angesagt wurde, wenn dein derzeitiger Plan politisch ist, gebe dem Angreifer eine Resource: Eine Truppe deiner Wahl kann wärend dem Aufmarsch in diesem Angriff nicht eingesetzt werden.\n<i>“Wenn es uns gelingt, das Vertrauen der Bevölkerung zu gewinnen, wird die Fabrik ihre Tore für uns öffnen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil - Immobil -</b> Politisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rathaus"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "ce1488f1-0662-4f97-8d12-d635cb273bcc",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/547f634a-c19f-44b0-aeb1-087feb0e6c2c.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_card_template_attachment.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Kann an eine gegnerische Truppe in der Reserve gerüstet werden. Diese Truppe kann wärend des <b>Aufmarschs</b> nicht eingesetzt werden.\n\n<i>“Tief im Inneren sind Menschen nicht für den Kampf gemacht.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Des Kämpfens müde"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

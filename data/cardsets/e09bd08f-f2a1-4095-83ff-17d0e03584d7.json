@@ -1,0 +1,2120 @@
+{
+  "version": 2.12,
+  "cardset_id": "e09bd08f-f2a1-4095-83ff-17d0e03584d7",
+  "name": "Pläne",
+  "blueprint_id": "a4b14b53-afc3-49ce-9834-b22e6fb73477",
+  "hint_order_index": 6,
+  "cards": [
+    {
+      "card_id": "f5758cc2-0c73-4deb-9c75-0941e0078622",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Catch them Unprepared.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Angriff auf den Nachschub"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wenn du während \ndieser <b>Operation:</b> einen entscheidenden Sieg mit mindestens 3 Stärke mehr als benötigt erringst: Erhalte eine Unterstützung.\n\n<b>Operation:</b> <b>Angriff</b>. Wenn du gewinnst kannst du eine beliebige Anzahl an an diese Jahreszeit vorbereitete Karten abwerfen.\n\n<i>\"Faire Kämpfe sind für Träumer und meistens auch für Verlierer.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "6aec0471-2711-43cd-bc08-481eb66e434e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/entspannungspolitik.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Entspannungspolitik"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wenn du diese Jahreszeit angegriffen wirst und der Angreifer keinen entscheidenden Sieg erringt: Erhalte eine Unterstützung.\n\n<b>Operation:</b> Wähle 3 Karten mit unterschiedlichem Titel aus deinem Abwurfstapel. Dein Gegner darf eine davon wählen, den Rest darfst du jeweils vorbereiten oder auf die Hand nehmen.\n\n<i>\"Nicht alle Machthaber haben den großen Krieg vergessen.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Politisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b1c1617f-5eb0-422a-b3a0-be601b20a48f",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/jakub-rozalski-monday1863.png",
+                "offset": "-0.3427673, 0.01981132"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Einsatz der Fremdenlegion"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wenn du höchstens eine Handkarte oder Ressource besitzt: Erhalte eine Unterstützung.\n\n<b>Operation:</b> Erstelle einen Söldner Offizier.\n\n\"<i>Experten kann man für jede Aufgabe kaufen. Auch für den Krieg.</i>\""
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ökonomisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "34201fa3-3bb8-4df0-8c74-959e0ef94eaf",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Head on Engagement.png",
+                "offset": "-0.5055031, -0.03081761"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Frontalangriff"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wenn der gegnerische Plan politisch ist: Wähle einen der folgenden Effekte. Dein Gegner verliert 2 Ressourcen oder wirft eine Karte ab.\n\n<b>Operation:</b> <b>Angriff</b>. Wenn du gewinnst, füge einer Karte an einem beliebigen Ort 3 Schaden zu.\n\n<i>\"Lasst uns ihren Stahl gegen unseren testen.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "306d25a6-f035-49e5-b295-c34e5ab29747",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Forging Foreign Relations.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Handelsabkommen"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wenn der gegenüberliegende Plan ökonomisch ist: Erhalte 2 Ressourcen. Du kannst nach dieser Operation eine Karte vorbereiten.\n\n<b>Operation:</b> Ziehe 3 Karten. Du kannst 2X Ressourcen ausgeben um X Karten zu ziehen.\n\n<i>\"Keine Nation kann in diesen turbolenten Zeiten auf sich allein gestellt überleben.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Politisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "dc48c4bf-d2d8-4d88-ad7e-46af9f228ff8",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/War Economy.png",
+                "offset": "-0.4992138, 0.001100629"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Kriegswirtschaft"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wenn der gegenüberliegende Plan militärisch ist: Ziehe 2 Karten. Werfe eine Karte ab.\n\n<b>Operation:</b> Erhalte 6 Ressourcen. Werfe X Karten ab um 2X Ressourcen zu erhalten.\n\n<i>\"Größere Fabriken bedeuten größere Macht.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ökonomisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e3572631-cc15-44b4-8655-d2fe8e001cba",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Ruthless Advance.png",
+                "offset": "-0.3073899, -0.03411949"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/saxony_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rücksichtsloser Feldzug"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<size=11><b>Aktivierung:</b> Immer wenn du diese Runde ein Gefecht gewinnst: Erhalte 1 Ressource und ziehe 1 Karte.\n\n<b>Operation:</b> Reduziere die Resilienz deines Gegners für diese Jahreszeit auf 0. <b>Angriff</b>.\n\n<i>\"Unsere neidischen Nachbarn wollen uns sowieso scheitern sehen. Wir brauchen uns nicht darum zu kümmern, was sie von uns halten.\" - Prinz Wilhelm</i></size>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4874fd89-e1f4-4fb4-9f76-b5c76d4a059b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Suprise Offensive.png",
+                "offset": "-0.3993711, -0.02971698"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/saxony_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Überaschungsangriff"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Am Ende des Winters kannst du diesen Plan aufdecken. Ist er jetzt aufgedeckt und unbeschädigt kannst du ihn mit deinem Plan im Frühling tauschen.\n\n<b>Operation:</b> Angriff.\n\n<i>\"Obwohl Sachsen für Überraschungs- angriffe bekannt ist, schaffen sie es Ihre Gegner immer wieder aufs neue zu überrumpeln.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "141dd9d4-30aa-4f00-be6e-1bd6fa5e9044",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/0ee6cd73-da47-4b93-8bab-5d32c14adba8.png",
+                "offset": "-0.134434, -0.03301886"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/saxony_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Verbrannte Erde"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Mache eine Einheit bereit.\n\n<b>Operation:</b> Erhalte 1 Ressource und ziehe 1 Karte für jeden deiner Siegespunkte.\n\n<i>\"Die fruchtbaren Felder im Osten Europas sind ein Schatz, dessen größter Diamant die Fabrik ist. Sachsen wird ihn bergen.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ökonomisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "10de2d2c-d215-45ca-950a-4d349a507a43",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Prepare the Defense.png",
+                "offset": "-0.3404088, -0.02751572"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Defensive Maßnahmen"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Deine verteidigenden Truppen haben diese Jahreszeit +1 Stärke.\n\n<b>Operation:</b> Produziere bis zu 2 Karten von deiner Hand oder aus an diese Jahreszeit vorbereiteten Karten. Reduziere ihre Kosten um 2. Binde sie am Ende dieser Jahreszeit.\n\n<i>\"Wenn sie Polania nehmen wollen müssen sie hier durch. Das werden wir nicht zulassen.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0bbefd9e-89ad-432d-b110-e53c2d250507",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/internationale empörung.jpg",
+                "offset": "-0.5487421, 0.08694968"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Internationale Empörung"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Am Ende des Zuges, wenn du diese Runde ein Gefecht gewonnen hast: Erhalte eine Unterstützung.\n\n<b>Operation:</b> Binde eine Einheit.\n\n<i>\"Jeder will den Außenseiter gewinnen sehen.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Politisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0a98bd7d-180e-4820-a4f0-061fd827bcc1",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/fc941b3f-2a58-4901-b99b-580e8eca72eb.png",
+                "offset": "0.007075472, -0.03522012"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Passiver Widerstand"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung: </b>Du kannst eine Unterstützung erhalten. Wenn du dies tust, hat die \"<b>Operation:</b>\" dieses Plans diese Runde keinen Effekt.\n\n<b>Operation:</b> Erhalte 1 Ressource und ziehe 1 Karte für jede deiner Unterstützungen.\n\n<i>\"Polanias unzerbrechlicher Wille wird auf der ganzen Welt bewundert.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Politisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f49d5d4e-8bfc-4377-a613-1e55a6f9e6cf",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/propaganda.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Mobilisierung"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wenn du 3 oder mehr Rekruten kontrollierst: Erhalte eine Unterstützung.\n\n<b>Operation:</b> Erstelle 3 Rekruten und bereite sie an diese Jahreszeit vor.\n\n<i>\"Ich habe mich in die Schönheit der Taiga verliebt.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Politisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c8a92179-b646-44bd-a0eb-1a2c4c5a899c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviets fines.jpg",
+                "offset": "-0.08647799, 0.03632075"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Die Rote Armee"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wähle eine Karte in deinem Abwurfstapel die diese Runde aufgelöst wurde: Bereite sie an eine beliebige Jahreszeit vor oder nehme sie auf deine Hand.\n\n<b>Operation:</b> Bereite die obersten 5 Karten deines Decks an diese Jahreszeit vor.\n\n<i>\"Einmal mobilisiert, kann es keine Nation in Europa mit der roten Armee aufnehmen.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ökonomisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "dd68f705-edf3-4f13-9ad0-9621706a2b1a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/zangenagriff.png",
+                "offset": "0.05031446, -0.03301886"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Zangenangriff"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Binde die Einheiten von 2 deiner bereiten Truppen: Binde eine gegnerische Einheit.\n\n<b>Operation:</b> <b>Angriff</b>. Wenn du gewinnst, ziehe eine Karte und erhalte eine Ressource für jede zweite (abgerundet) während der Gefechtsauflösung bereiten Truppen.\n\n<i>\"Wäre es ihnen wirklich wichtig, würden sie es besser schützen. Warum sollten wir es uns dann nicht einfach nehmen?\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "fbcfe7e8-37aa-4969-b2f9-3591d0bbf554",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/War Economy.png",
+                "offset": "0.01808176, -0.02751572"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Dekret der Aufrüstung"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung: </b>Wenn du wenigstens 5 Ausrüstungen kontrollierst, erhalte eine Unterstützung.\n\n<b>Operation:</b> Erstelle bis zu 2 Autobots und rüste sie aus.\n\n<i>\"Alle haben sich dem Willen ihrer Majestät zu unterwerfen. Mögen die Götter Gnade mit denen haben, die es nicht tun, denn von mir wird es keine geben.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ökonomisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "ed2192ca-f09a-4563-9c02-5bb822f8a7a5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Raid the Shores.png",
+                "offset": "-0.2625786, 0.08584905"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Raubzug"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Wähle eine gegnerische militärische Truppe und hebe ihrem Besitzer 2 Ressourcen: Mache die Truppe bereit. Sie muss während dem Aufmarsch des Angriffs dieser Operation eingesetzt werden (falls möglich).\n\n<b>Operation: Angriff</b>. Wenn du gewinnst, nehme bis zu 2 Ressourcen von deinem Gegner. Dein Gegner wirft eine Karte ab. Hat er eine Karte abgeworfen, ziehe eine Karte.\n\n<i>\"Alle Bewohner der Nordseeküste schlafen mit einem offenen Auge.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a9490778-070f-4097-9e6e-8b8dda7a4c77",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/grosse expedition.png",
+                "zoom": 0.5,
+                "offset": "-0.2334906, -0.01650943"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_plan_template_new.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Große Handelsexpedition"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Aktivierung:</b> Du kannst allen Spielern diese Jahreszeit einen Zusätzlichen Jahreszeitenrabbat in Höhe von 2 geben.\n\n<b>Operation:</b> Löse eine deiner Einheiten auf: Erhalte Ressourcen in Höhe ihrer Kosten und ziehe eine Karte. Nehme ihre Ausrüstungen zurück auf die Hand anstatt sie in den Abwurfstapel zu legen. Du kannst beliebig viele Karten an diese Jahreszeit vorbereiten.\n\n<i>\"Unser Herz ist immer im Norden zuhause, dennoch zieht es uns in die Ferne.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ökonomisch"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "9"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "870acab5-4e58-42e6-ba3c-0cfa1c7045ff",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/e0a535c5-797d-4eb4-9a2c-572008e4433e.png",
+                "zoom": 1.15,
+                "offset": "-0.09119496, 0.01430818"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/saxony_hero_template_v4-.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "padding": "0.2, 0.03, 0.05, 0.03",
+              "type": "text",
+              "data": {
+                "text": "Günter von Duisburg, Tag & Nacht"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jede Jahreszeit kannst du die Kosten eines Befehls den du gibst um 1 reduzieren.\n\n<i>“Als erfahrener Taktiker, aber politisch unbequem, wäre Günter still und leise verschwunden, wenn er nicht der Beste wäre.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "e3fb3aba-ed56-441e-af54-9849ef929932",
+              "rotation": 0,
+              "padding": "0, 0.22, 0.2, 0.02"
+            },
+            {
+              "blueprint_panel_id": "b403e9f7-1a42-45f0-99d9-01adc0bf8225",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Held"
+              }
+            },
+            {
+              "blueprint_panel_id": "20d9f438-ec64-4719-b7aa-0e96048020a7",
+              "rotation": 0,
+              "padding": "0.05, 0.05, 0.05, 0.05"
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4cb67658-0181-4e59-867c-21db0204e130",
+          "panels": [
+            {
+              "blueprint_panel_id": "ab63260d-1784-4a03-b740-458d302118aa",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/shield",
+                "color_tint": "#02C200FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "65dae09d-3b88-4c17-8a14-9479f7dc7e66",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Frida.png",
+                "zoom": 1.0,
+                "offset": "0.004716981, 0.003301887"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/saxony_hero_template_v4-.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "padding": "0.2, 0.03, 0.05, 0.03",
+              "type": "text",
+              "data": {
+                "text": "Frida & Brunhilde"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Beginne das Spiel mit Brunhilde in deiner Reserve.\n(Zerstörte) Brunhilde und all ihre Brunhilde Ausrüstungen werden als eine Truppe behandelt. Ihre Textbox und alle Werte sind die Summe aller Werte auf den einzelnen Karten (die Ausrüstungen Zählen nicht mehr als eigene Karten).\n\n<i>“Was gibt es in einem kleinen Dorf anderes zu tun, als an einer legendären Kriegsmaschine zu basteln, die der alte Freund deines Vaters hinterlassen hat?”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "e3fb3aba-ed56-441e-af54-9849ef929932",
+              "rotation": 0,
+              "padding": "0, 0.22, 0.2, 0.02"
+            },
+            {
+              "blueprint_panel_id": "b403e9f7-1a42-45f0-99d9-01adc0bf8225",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Held"
+              }
+            },
+            {
+              "blueprint_panel_id": "20d9f438-ec64-4719-b7aa-0e96048020a7",
+              "rotation": 0,
+              "padding": "0.05, 0.05, 0.05, 0.05"
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4cb67658-0181-4e59-867c-21db0204e130",
+          "panels": [
+            {
+              "blueprint_panel_id": "ab63260d-1784-4a03-b740-458d302118aa",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/shield",
+                "color_tint": "#02C200FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "35b88d4d-0758-46b7-84e2-bb3a477d73dc",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Anna.png",
+                "offset": "-0.01100629, -0.02201258"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_hero_temlate_new.png",
+                "offset": "0, 0"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Anna & Wojtek"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Wenn du Unterstützung erhälst, schau dir die obersten 4 Karten deines Decks an und bereite eine davon an eine beliebige Jahreszeit vor oder nehme sie auf die Hand. Lege die anderen in beliebiger Reihenfolge unter dein Deck.\n\n<i>“Anna ist eine talentierte Scharfschützin, die schnell zum Befehlshaber aufstieg. Sie wird von ihren Truppen geliebt und von ihren Feinden gefürchtet.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "e3fb3aba-ed56-441e-af54-9849ef929932",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b403e9f7-1a42-45f0-99d9-01adc0bf8225",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Held"
+              }
+            },
+            {
+              "blueprint_panel_id": "20d9f438-ec64-4719-b7aa-0e96048020a7",
+              "rotation": 0,
+              "padding": "0.05, 0.05, 0.05, 0.05"
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4cb67658-0181-4e59-867c-21db0204e130",
+          "panels": [
+            {
+              "blueprint_panel_id": "ab63260d-1784-4a03-b740-458d302118aa",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/shield",
+                "color_tint": "#02C200FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "70b12fa5-3f57-4abc-9725-4df063ee9c59",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Lech.png",
+                "fit_mode": "fit",
+                "zoom": 1.2,
+                "offset": "-0.1218553, -0.0418239"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/polania_hero_temlate_new.png",
+                "offset": "0, 0"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Lech & Opór"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Deine Siegespunkte zählen außerhalb der Friedensverhandlung als Unterstützungen. Wenn du ein Gefecht gewinnst und keinen Entscheidenden Siegerringst, erhalte eine Unterstützung.\n\n<i>“Ich würde Polanien eher in Schutt und Asche legen, als es in fremden Händen zu sehen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "e3fb3aba-ed56-441e-af54-9849ef929932",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b403e9f7-1a42-45f0-99d9-01adc0bf8225",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Held"
+              }
+            },
+            {
+              "blueprint_panel_id": "20d9f438-ec64-4719-b7aa-0e96048020a7",
+              "rotation": 0,
+              "padding": "0.05, 0.05, 0.05, 0.05"
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4cb67658-0181-4e59-867c-21db0204e130",
+          "panels": [
+            {
+              "blueprint_panel_id": "ab63260d-1784-4a03-b740-458d302118aa",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/shield",
+                "color_tint": "#02C200FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "35c38869-b50f-4292-9157-166a5cb7aa24",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Olga.png",
+                "zoom": 1.15,
+                "offset": "-0.05817615, -0.09685534"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_hero_template_v4-.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "padding": "0.2, 0.03, 0, 0.03",
+              "type": "text",
+              "data": {
+                "text": "Olga & Changa"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Beliebig oft pro Zug, wähle eine vorbereitete Truppe oder Ausrüstung: Produziere sie, wenn möglich eingesetzt an diesem Schlachtfeld.\n\n<i>“Kämpferisch und unabhängig, rücksichtslos wenn nötig, mitfühlend wenn möglich. Sie ist das, was Rusviet werden sollte.\"-Tsar Nicolaus</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "e3fb3aba-ed56-441e-af54-9849ef929932",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b403e9f7-1a42-45f0-99d9-01adc0bf8225",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Held"
+              }
+            },
+            {
+              "blueprint_panel_id": "20d9f438-ec64-4719-b7aa-0e96048020a7",
+              "rotation": 0,
+              "padding": "0.05, 0.05, 0.05, 0.05"
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4cb67658-0181-4e59-867c-21db0204e130",
+          "panels": [
+            {
+              "blueprint_panel_id": "ab63260d-1784-4a03-b740-458d302118aa",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/shield",
+                "color_tint": "#02C200FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "428e6fc0-51cf-4615-8245-adb5084c34c6",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Lev.png",
+                "zoom": 1.25,
+                "offset": "-0.1407233, -0.06493711"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_hero_template_v4-.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "padding": "0.2, 0.03, 0, 0.03",
+              "type": "text",
+              "data": {
+                "text": "Lev & Grif"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Einmal pro Gefecht,wenn du eine bereite, eingesetzte Truppe kontrolierst, wähle eine Einheit: Binde sie.\n\n<i>“Er stammt von altem Blut ab, bringt aber eine neue Art von Skrupellosigkeit mit sich. Die meisten sehen ihn als Rusviets größten Mech-Kommandanten, aber ich zweifle an seinen Motiven\"- Olga Romanova</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "e3fb3aba-ed56-441e-af54-9849ef929932",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b403e9f7-1a42-45f0-99d9-01adc0bf8225",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Held"
+              }
+            },
+            {
+              "blueprint_panel_id": "20d9f438-ec64-4719-b7aa-0e96048020a7",
+              "rotation": 0,
+              "padding": "0.05, 0.05, 0.05, 0.05"
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4cb67658-0181-4e59-867c-21db0204e130",
+          "panels": [
+            {
+              "blueprint_panel_id": "ab63260d-1784-4a03-b740-458d302118aa",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/shield",
+                "color_tint": "#02C200FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a282af7a-8149-4293-a4cb-35f15aab33cb",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/b2afe654-aa52-46f6-8b96-3da90919df59.png",
+                "zoom": 1.15,
+                "offset": "-0.09198114, -0.1111635"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nordic_hero_template_v4-.png",
+                "zoom": 1.0
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bjorn & Bodil"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Reaktion:</b> Einmal pro Jahreszeit, nachdem eine Ausrüstung, von deiner Hand oder vorbereitet, an eine deiner Truppen gerüstet wurde, die noch keine Ausrüstung hatte: Ziehe 1 Karte.\n\n<i>“Trotz seines mürrischen Aussehens und seiner eisigen Heimat brennt in Bjorn ein Feuer. Für das Abenteuer, für sein Volk und für eine neue Ära.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "e3fb3aba-ed56-441e-af54-9849ef929932",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b403e9f7-1a42-45f0-99d9-01adc0bf8225",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Held"
+              }
+            },
+            {
+              "blueprint_panel_id": "20d9f438-ec64-4719-b7aa-0e96048020a7",
+              "rotation": 0,
+              "padding": "0.05, 0.05, 0.05, 0.05"
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4cb67658-0181-4e59-867c-21db0204e130",
+          "panels": [
+            {
+              "blueprint_panel_id": "ab63260d-1784-4a03-b740-458d302118aa",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/shield",
+                "color_tint": "#02C200FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "78ab7a54-3711-4c82-9060-807c2dab0cb2",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d3dd184c-ac12-485f-88cd-40aff82abe14",
+          "panels": [
+            {
+              "blueprint_panel_id": "2e063061-9c86-44a9-9e28-72e7eeba654e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Helga.png",
+                "zoom": 1.2,
+                "offset": "-0.1210692, -0.06383648"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "ae7dc0f0-45e0-42ca-aaf6-ce41f831487a",
+          "panels": [
+            {
+              "blueprint_panel_id": "3318d969-b44e-4328-a35a-128d356b92be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nordic_hero_template_v4-.png",
+                "zoom": 1.0
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5469abd3-251e-4512-89d9-83c8b476a7ec",
+          "panels": [
+            {
+              "blueprint_panel_id": "33de48ca-981e-4b0a-8df1-1b920ace2b5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Helga & Gunnr"
+              }
+            },
+            {
+              "blueprint_panel_id": "6660c37e-3bfb-44de-922d-53747d6c070a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n<b>Reaktion:</b> Einmal pro Gefecht, nachdem eine gegnerische Aktion auf eine deiner Einheiten zielt, löse eine ihrer ungebrochenen bereiten Ausrüstungen auf: Negiere den Effekt der Aktion.\n\n<i>“Zum Entsetzen ihres Vaters führt sie die Vorhut der nordischen Mech-Truppen an. Nicht einmal ein König kann sich dem Willen der herausragensten Tochter des Nordens widersetzen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "e3fb3aba-ed56-441e-af54-9849ef929932",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b403e9f7-1a42-45f0-99d9-01adc0bf8225",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "187cd790-47b8-4bbf-9606-59a6067df610",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Held"
+              }
+            },
+            {
+              "blueprint_panel_id": "20d9f438-ec64-4719-b7aa-0e96048020a7",
+              "rotation": 0,
+              "padding": "0.05, 0.05, 0.05, 0.05"
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "4cb67658-0181-4e59-867c-21db0204e130",
+          "panels": [
+            {
+              "blueprint_panel_id": "ab63260d-1784-4a03-b740-458d302118aa",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/shield",
+                "color_tint": "#02C200FF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
+          "panels": [
+            {
+              "blueprint_panel_id": "95e5f2ca-1e2c-478e-915e-8595a902f210",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

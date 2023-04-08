@@ -1,0 +1,119 @@
+{
+  "version": 2.12,
+  "cardset_id": "5c2d3ffa-0a52-4c56-bad4-aebc4b673b4c",
+  "name": "Ressourcen",
+  "blueprint_id": "204073b1-b59a-4d24-9f33-b52cb03d829a",
+  "hint_order_index": 10,
+  "cards": [
+    {
+      "card_id": "c801b628-86f8-492e-9e65-98687eb7bec3",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ec8a4435-9225-4e30-a598-edd5ca06ad2a",
+          "panels": [
+            {
+              "blueprint_panel_id": "a78c04ca-bb89-4619-9841-f3a3e1b9efe6",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Reference Rusviet.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "cd54610e-c218-4274-b114-141980c75793",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ec8a4435-9225-4e30-a598-edd5ca06ad2a",
+          "panels": [
+            {
+              "blueprint_panel_id": "a78c04ca-bb89-4619-9841-f3a3e1b9efe6",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Reference Nord.png"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "f03bf342-ebca-4947-a6aa-552ee111df65",
+          "panels": [
+            {
+              "blueprint_panel_id": "956f8899-26b3-4c1c-bfb3-0b200450257a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Reference Nord.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1b500428-aacf-4030-b1c9-c70a5405cec5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ec8a4435-9225-4e30-a598-edd5ca06ad2a",
+          "panels": [
+            {
+              "blueprint_panel_id": "a78c04ca-bb89-4619-9841-f3a3e1b9efe6",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Reference Polania.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9cd47254-06c6-41c8-8659-a847286e0899",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ec8a4435-9225-4e30-a598-edd5ca06ad2a",
+          "panels": [
+            {
+              "blueprint_panel_id": "a78c04ca-bb89-4619-9841-f3a3e1b9efe6",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Reference Saxony.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9a837239-e825-4154-aa35-61bf5d912e87",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ec8a4435-9225-4e30-a598-edd5ca06ad2a",
+          "panels": [
+            {
+              "blueprint_panel_id": "a78c04ca-bb89-4619-9841-f3a3e1b9efe6",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/2023-01-17 18_26_29-Window.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

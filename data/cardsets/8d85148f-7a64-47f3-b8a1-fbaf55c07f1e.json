@@ -1,0 +1,1480 @@
+{
+  "version": 2.12,
+  "cardset_id": "8d85148f-7a64-47f3-b8a1-fbaf55c07f1e",
+  "name": "Nord",
+  "blueprint_id": "bb89d069-0a55-4804-a488-5103e77acd4b",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "010dda20-c4dd-4d4f-a67b-99e57f5c5bff",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Langskip.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "padding": "0, 0.03, 0.06, 0.03",
+              "type": "text",
+              "data": {
+                "text": "Wenn Langskip das Spiel betritt: Durchsuche dein Taktik-Deck nach einer Ausrüstung. Rüste sie an eine deiner Amphibischen Truppen (<i>Kosten und Voraussetzungen beachten</i>).\n\n<i>“Es ist an der Zeit, den Hafen zu verlassen und einen bleibenden Eindruck in der Welt zu hinterlassen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Mittelschwer -</b> Militärisch <b>-</b> Gepanzert - Amphibisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "GS 13 „Langskip\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "160cf9c1-da78-4b24-887a-66ec4db872d6",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/einherjer.jpg",
+                "zoom": 1.2,
+                "offset": "0.04020771, -0.4454029",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Einherjer kann eine zusätzliche Ausrüstung tragen.\nAlle Ausrüstung in dieser Einheit erhält +1 Stärke.\n\n\n<i>“Bereit für Ragnarök!”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Schwer -</b> Militärisch <b>-</b> Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "KL 29 \"Einherjer\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f452e2f8-6758-4a1b-be27-22a489e28c29",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/b6e5b5ff-038f-4f85-9e35-bac030b8ba88.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Binde Naglfar und wähle eine gegnerische Einheit mit weniger Karten als Naglfars Einheit: Die gewählte Einheit zieht sich zurück.\n\n<i>“Das Einzige, was den Ozean schneller überquert als nordische Schiffe, ist die Furcht, die sich ausbreitet, wenn Drachenköpfe am Horizont auftauchen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Schwer -</b> Militärisch <b>-</b> Gepanzert <b>-</b> Amphibisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "GS 26 \"Naglfar\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a37ca69d-b388-446a-9e9e-6b40da7eb20d",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Old/Ochsen.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\nOchsenreiter können Ausrüstung rüsten als wären sie gepanzert.\n\n<i>“Ein Fleischgewordenes Abbild des Nordens. Stur, unerschroken und unendlich Zäh.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Mittelschwer <b>-</b> Militärisch <b>-</b> Kavallerie"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ochsenreiter"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b0c62e31-b793-46a9-be67-c3d3e0f1da8b",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Hringhorni.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hringhorni kostet 1 weniger wenn er an einen ökonomischen Plan vorbereitet ist.\nAusrüstung, die an Hringhorni ausgerüstet wird, kostet 1 Ressource weniger und können als Gefechtsaktion ausgerüstet werden.\n<b>Gefecht:</b> Füge X Schaden zu, wobei X die Anzahl der Karten in Hringhornis Einheit +2 ist.\n\n<i>\"Das Schlachtschiff der Götter.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "padding": "0.1, 0.07, 0.1, 0.14",
+              "type": "text",
+              "data": {
+                "text": "<b>Weitreichend - Schwer -</b> Militärisch <b>-</b> Gepanzert <b>-</b>  Amphibisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "GS 59 „Hringhorni”"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f5358388-2dbe-4a4c-be5a-f4912daf5cab",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/25862a24-8239-442f-aca5-647e37a5162e.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht/Zivil:</b> Binde die Waffenfabrik, wähle eine deiner Ausrüstung an einem beliebigen Ort und eine deiner Truppen: Mache sie bereit und rüste die Truppe mit der Ausrüstung aus.\n<b>Gefecht:</b> Binde die Waffenfabrik und wähle eine Einheit: Gebe allen Ausrüstungen in ihr +1 Stärke.\n\n<i>“Die Fabrikanten des Todes.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil - Immobil -</b> Ökonomisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Waffenfabrik"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5fa90248-0f6c-4ddb-96d4-65324ea6f41e",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/f46cb91a-bfd4-45d1-a65c-80b303756cfa.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_attachment_int.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gebe dieser Truppe <b>Amphibisch</b>.\n\n<i>“Es ist schwer, eine Meile Meer zu finden, ein Stück Land, das ein nordischer Stiefel noch nicht berührt hat. Aber wir geben nicht auf.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Beliebig"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Landungsschiff"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "974bf2c1-cecd-4c67-a0eb-eb3e35f80b63",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1ea6549a-2ee7-4c32-923c-34ebc9b62590",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Wildniss.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_attachment.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Reaktion: </b>Zu beginn einer Jahreszeit: Zerstöre eine Ausrüstung in dieser Einheit: Mache die Einheit bereit.\n\n<i>“Im Eis der Tundra liegt so mancher Schatz begraben.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Seele des Nordens"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "2861c78a-64fa-441d-99d7-e35b6f1239db",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/68b17f44-ebe8-44d8-bd87-ce97f76d4cd1.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_attachment.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Ziehe diese Truppe zurück. Mache ihre Einheit bereit.\n\n<i>“Lass uns ihre Gastfreundschaft nicht überstrapazieren.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rauchgranaten"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "40dff316-2981-4232-ad87-662b446e5693",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/57c97afa-4123-444e-bac1-a9cf23efbfec.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_attachment.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Wähle eine Einheit mit weniger Karten als diese Einheit: Füge ihr 3 Schaden zu.\n\n<i>“Die Befestigungen waren für einen Rusviet Landangriff gebaut worden. Als die ersten Granaten vom Meer her einschlugen, wussten die Verteidiger, dass sie verloren waren.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Schiffsmörser"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9bee41cb-9a6b-4ed1-8689-9c06d62940a3",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/plating.png",
+                "zoom": 2.0,
+                "offset": "-0.2380296, -0.4035896",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_attachment.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ist diese Truppe Leicht, gebe ihr stattdessen <b>Mittelschwer</b>.\nIst diese Truppe <b>Mittelschwer</b>, gebe ihr stattdessen <b>Schwer</b>.\n\n<i>“Es ist immer gut mehr Stahl zwischen dir und den gegnerischen Geschützen zu wissen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Zusätzliche Panzerung"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b3f29b7b-5cb1-44f5-9aeb-985ed702844f",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Hard Choices.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Löse eine Ausrüstung dieser Truppe auf: Eine Einheit (<i>deiner Wahl</i>) zieht sich zurück. Wenn du sie nicht kontrollierst wird sie nach dem Rückzug gebunden.\n\n<i>“Die tückischen Ödlandschaften des Nordens lehren die Menschen dort Entbehrungen. Südländler könnten das nicht ertragen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Schwere Entscheidungen"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a569bd0e-265c-4e48-a432-0b3a2d8f96be",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/licht im nebel.jpg",
+                "offset": "0.151181, 0.07635472",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil:</b> Du erhälst bis zum Ende der Jahreszeit +1 Aufklärung pro Karte in dieser Einheit.\n\n<i>“Der Nordstern weist uns den Weg.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Beliebig"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ein Licht im Nebel"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "522422e8-4d84-4bfe-b3a7-cd1d419a9f8d",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/483cd5a1-d914-44bd-abf2-7664dfefe8ab.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Reaktion:</b> Nachdem eine Gegnerisch Aktion eine deiner Ausrüstungen als Ziel wählt: Ignoriere den Effekt der Aktion auf die Ausrüstung.\n\n<b>Gefecht:</b> Gebe allen Karten in dieser Einheit +1 Stärke.\n\n<i>“Ob Raubzug, Erkundung oder Handel - immer wenn mutige Seeleute in See stechen, hoffen sie auf das Beste, erwarten aber auch das Schlimmste.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Aufs Schlimmste vorbereitet"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8946136a-7ba1-4f61-971c-2fc123e07cc0",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/342c81bc-c751-4a4b-9261-81b16b59e287.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil:</b> Wähle eine Truppe: Setze ihre Aufklärung für diese Jahreszeit auf 0. Du kannst sie binden, wenn sie <b>zivil</b> ist.\n\n<i>“Ohne Nachschub zerfallen selbst die mächtigsten Armeen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>-</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Blockade"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "780a8719-adc0-4345-89a2-c31fa823ef8c",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Legends of Glory.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/nord_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Wähle eine Einheit mit geringeren Kosten als diese Einheit: Binde sie und gebe ihrer Truppe -3 Stärke.\n\n<i>“Die Geschichten von Tyr und Thor werden jeden Tag von unseren tapferen Kriegern und Entdeckern weitererzählt.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Heldensagen"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5b968fe2-75d0-4333-b946-2c994e0f86d6",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/ac07fe44-3623-4046-afff-a05bec1a29ac.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Setze eine Truppe die du kontrollierst ein.\n\n<i>“Krieg ist mehr Logistik als Feuerkraft.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil - Immobil - </b>Ökonomisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Logistisches Zentrum"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 2.12,
+  "cardset_id": "f36f5155-ae0f-4f7f-9ed6-afb75495d076",
+  "name": "Backside Tactics",
+  "blueprint_id": "64925839-0999-4a0a-8b05-eacb1fc28e22",
+  "hint_order_index": 8,
+  "cards": [
+    {
+      "card_id": "10a64253-ce0b-42b6-a974-28fa324b5dda",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "5ad2ac39-cf92-4365-927e-63add8554390",
+          "panels": [
+            {
+              "blueprint_panel_id": "743058a9-010d-4cce-915d-c90c849d8235",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/jakub-rozalski-1920-hussars.jpg",
+                "offset": "0.4448869, -0.001117519"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

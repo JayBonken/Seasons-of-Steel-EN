@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "2d48dffa-e40d-4eb3-ba90-387cb0f8cc48",
+  "name": "Backside Strategy",
+  "blueprint_id": "d710f8ae-1870-4ffd-aa03-d9b194bf026a",
+  "hint_order_index": 9,
+  "cards": [
+    {
+      "card_id": "a1f9ecd9-cb73-42a6-8ed8-db649a03cd3f",
+      "amount": 1
+    }
+  ]
+}

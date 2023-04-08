@@ -1,0 +1,1491 @@
+{
+  "version": 2.12,
+  "cardset_id": "32bee03c-e082-4a0e-b835-4d6d01e45bae",
+  "name": "Rusviet",
+  "blueprint_id": "bb89d069-0a55-4804-a488-5103e77acd4b",
+  "hint_order_index": 3,
+  "cards": [
+    {
+      "card_id": "596d5c5f-a6f6-4369-914f-387c86bebe7a",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/conscripts (1).png",
+                "zoom": 0.9,
+                "offset": "0.0788071, 0.03817733",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Wenn die Rote Garde ins Spiel gebracht wird und vorher vorbereitet war, ziehe eine Karte.\n\n<i>“Es gibt nur eine Sache in Rusviet, von der wir nicht zu wenig haben: Menschen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Infanterie"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rote Garde"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7311026a-9ba0-4775-9af2-e9c8883c6cc3",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "padding": "0.07, 0, 0.32, 0",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/iron_harvest__rusviet_revolution_pc_-_dlc.jpg",
+                "fit_mode": "fit",
+                "offset": "-0.001608308, 0.1570607",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil:</b> Gib beliebig vielen Rekruten eine Ausbildungsmarke.\n\n<b>Reaktion:</b> Bevor eine Gefechtsauflösung Einheiten bindet: Die Einheiten deiner Rekruten werden nicht gebunden.\n\n<i>“Wir haben nichts zu verlieren außer unseren Ketten.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>-</b>"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Revolutionärer Eifer"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "03f0474a-1f8c-4d59-8212-5e9bcbf30274",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Dark_Infantry_2.png",
+                "offset": "0.003216617, 0.1599814",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Als unnegierbare Kosten um “Hephaestus” ins Spiel zu bringen, binde eine deiner militärischen Truppen.\n\n<b>Gefecht:</b> Negiere alle Stärkemodifizierungen durch Aktionen auf Karten in einer Einheit.\n\n<i>“Tesla hat sich in der Fabrik verbarrikadiert und ignoriert die kleinlichen Machtkämpfe europäischer Monarchen.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Infanterie <b>-</b> Tesla"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "TF-21 \"Hephaestus\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "ba6fb713-e254-4551-8bec-be669346cc67",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Screenshot 2023-01-28 234125.png",
+                "zoom": 1.4,
+                "offset": "0.07237387, 0.1654353",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Nachdem Groza ins Spiel kommt, erstelle einen Rekruten am selben Ort wie Groza.\n\n<i>“Das kreischende Geräusch des herannahenden Todes ist das letzte, was sie hören, bevor sie kalten Stahl spüren.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Infanterie"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "SHM-60 \"Groza\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "fa71435a-41ef-4921-8f80-c09612a0a963",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Rusviet_Flamethrower_Mech.png",
+                "offset": "0.003216617, 0.0836266",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Binde Ognivo: Gebe allen anderen deiner eingesetzten Truppen +1 Stärke.\n\n<i>“Diese Flammen brannten für den Zaren. Lasst sie uns für die Revolution entfachen!”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Mittelschwer -</b> Militärisch <b>-</b> Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "SHM-78 \"Ognivo\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f4db494f-cc65-4547-b513-b672857e81f0",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/kolokol (1).png",
+                "zoom": 1.0,
+                "offset": "0.001608308, 0.001817915",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Decke die oberste Karte deines Taktik-Decks auf: Bereite sie vor.\n\n<i>“Schnell, vielseitig und spottbillig in der Massenproduktion.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "SHM-86 \"Kolokol\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "341a66a6-9561-48be-b7de-3e4178ae0e4b",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/jakub-rozalski-przedwiosnie1920-01s.jpg",
+                "zoom": 1.5,
+                "offset": "0.2364213, -0.0781728",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gulyay-Gorod kostet 1 weniger, du mehr Truppen als alle anderen Spieler besitzt.\n<b>Reaktion:</b> Nachdem Gulyay-Gorod Ziel einer Aktion deines Gegners wurde, löse eine deiner bereiten Truppen am selben Ort auf: Negiere die Aktion.\n<b>Gefecht:</b> Löse eine deiner bereiten Truppen auf und wähle eine Karte ohne Ausrüstung: Löse sie auf.\n\n<i>\"Die meisten Gegner halten es für eine Festung. Bis es anfängt zu laufen.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Schwer -</b> Militärisch <b>-</b> Gepanzert"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "SHM-70 \"Gulyay-Gorod\""
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5ceb251a-52ee-49b0-965a-90a474ade662",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Underground Factory.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Du hast pro Jahreszeit (außer Winter) einen zusätzlichen Jahreszeitenrabatt von 1. \n\n<b>Gefecht:</b> Bereite eine Karte aus deiner Hand oder einer anderen Jahreszeit an dieser Jahrszeit vor.\n\n<i>\"Rusviet weiß, dass es klug ist, seine wahre Stärke zu verbergen.\"</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil - Immobil -</b> Ökonomisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Untergrundfabrik"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "91618423-7093-48b9-a868-8a195a615317",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Recruitment Officer.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_asset.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Deine eingesetzten Rekruten erhalten \n+1 Stärke.\n\n<b>Zivil:</b> Erstelle einen Rekruten auf deiner Hand.\n\n<i>“Die Kinder von Mutter Rusviet für unseren Vater, den Zaren.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil - Immobile -</b> Ökonomisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rekrutierungsoffizier"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a0df1a29-a200-4d24-8976-ad105f28952e",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/9c4cb7ac-226c-487c-a9fb-4b22c36a88c0.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_asset_int.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Wenn Horchposten ins Spiel kommt und dein Gegner mehr Aufklärung hat als du: Gebe Horchposten einen +1 Aufklärungsmarker.\n\n<b>Zivil:</b> Wähle eine vorbereitete Karte: Drehe sie um.\n\n<i>“An einem schönen Tag sehen wir die Freuden unserer Landschaft und die Schrecken, die der Feind für uns bereit hält.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil - </b>Aufklärung"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Horchposten"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "974bf2c1-cecd-4c67-a0eb-eb3e35f80b63",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "656d4cd7-08f2-48ca-b439-734e1d8d8564",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/b8964b1d-610b-4270-9e3d-3ccc7f89c187.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_asset_int.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "+1 Aufklärung außerhalb des Winters.\n<b>Reaktion:</b> Bevor in einer Jahreszeit Aktivierungen ausgeführt werden: Gebe einem Plan +2 oder -2 Komplexität für diese Jahreszeit.\n\n<i>“Es ist gut gut jemanden auf der anderen Seite zu kennen und noch besser wenn das die andere Seite nicht weiß.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil -</b> Aufklärung"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Informant"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "974bf2c1-cecd-4c67-a0eb-eb3e35f80b63",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e60d9d67-a14c-4d22-8140-ee37b12338c5",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/80b0dcd7-d13e-451f-8173-6998f5b7cc0a.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_attachment.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Nachdem du Speznas Training ausgerüstet hast, gebe dieser Truppe eine Ausbildungsmarke.\n\nWenn eine deiner Aktionen es erfordert eine Truppe aufzulesen, kannst du stattdessen Speznas Training auflösen.\n\n<i>“Viele Männer riskieren ihr Leben für das Mutterland. Einige haben sicher ein besonderes Talent dafür.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>&</b> Infanterie"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Speznas Training"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "6e9469d8-af70-492c-9513-1562510414f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            },
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9aecc26d-c2cd-4913-b8fc-6a171f4038a0",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/2ac88401-e608-4526-9ec6-8ad8664e17ed.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Kann nur an beliebig viele Rekruten gegeben werden.\n\n<b>Zivil:</b> Erhalte +1 Aufklärung für diese Jahreszeit für jede Truppe die diesen Befehlt ausführt.\n\n<i>“Viele Bewohner der Fabrik haben familiäre Bindungen zu Rusviet. Ein Umstand, der ausgenutzt werden kann.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "padding": "0.15, 0.13, 0.15, 0.13",
+              "type": "text",
+              "data": {
+                "text": "Immerwährende Präsenz"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "244f45a3-0c21-4b01-9ba7-4252e75cd833",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/10c50c65-95e4-4490-af00-ea9168d0dd84.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Zivil:</b> Löse diese Truppe auf: Binde eine gegnerische Einheit. Setze ihre Aufklärung auf 0 für diese Jahreszeit.\n\n<i>“Osteuropa ist der Spielplatz des Zaren. Seine Figuren sind bereits platziert.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch <b>-</b> Aufklärung"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hinter den Linien"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b77b83bb-64c4-491b-846b-560bd8ed6328",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/818efd00-9e0c-4610-950b-eb04eb084c84.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Löse diese Truppe auf: Setze die Stärke aller Karten in einer Einheit auf 0.\n\n<i>“Das Mutterland hat immer den längsten Atem.”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "In den Hexenkessel"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "3324ba4e-b730-497a-b7d1-10e0c4515501",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/ueberzahl.jpg",
+                "zoom": 1.5,
+                "offset": "0.2927121, 0.3890457",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rusviet_card_template_action.png",
+                "zoom": 1.0,
+                "offset": "0.004520992, -0.001076427",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Wenn du die meisten Truppen in diesem Gefecht kontrollierst: Eine Truppe (<i>deiner Wahl</i>) zieht sich zurück.\n\n<i>“Überflutet ihre Reihen mit Fleisch und Stahl!”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Überzahl"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c23b200a-c4b5-4625-9d6a-e3e3dd600985",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "b3bf59d6-c4d3-4a1d-9604-3877c93117db",
+          "panels": [
+            {
+              "blueprint_panel_id": "45c5efc5-26d1-45da-a661-b325402b110a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/8b47294c-aaf0-48b8-bb3b-06becbedfd55.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "2331ce8d-9dce-42c0-8d10-0022a903afe5",
+          "panels": [
+            {
+              "blueprint_panel_id": "df3f69d3-7aab-402a-8db2-33400d5f9c4c",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/neutral_card_template_action.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "0c52db98-8338-4d82-891d-be99a4b8648e",
+          "panels": [
+            {
+              "blueprint_panel_id": "981520a4-6ab7-44bf-a1e1-72c2f8e41196",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Gefecht:</b> Gebe deinen eingesetzten Truppen +1 Stärke.\n\n<i>“Jeder kämpft für jeden anderen! Zum Sieg!”</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Militärisch"
+              }
+            },
+            {
+              "blueprint_panel_id": "8214523d-7f48-461a-9be4-fcb3e3d865b6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Massenansturm"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "9b84b30c-3d12-409d-af86-8bbf938bd6d2",
+          "panels": [
+            {
+              "blueprint_panel_id": "12c7547e-fd9f-4aaa-ba9a-7499147cbe8b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "version": 2.12,
+  "cardset_id": "3948836a-fa86-4ecf-9c46-41c08a487336",
+  "name": "Referenz",
+  "blueprint_id": "830eb171-37d0-49dc-b6c7-91a7e34d555b",
+  "hint_order_index": 7,
+  "cards": [
+    {
+      "card_id": "4d930a74-acf1-4e72-a194-7725ba517be3",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "34cd07e6-381b-4871-af90-7683aec7f8c9",
+          "panels": [
+            {
+              "blueprint_panel_id": "d7717308-1b7d-4e36-aa05-45f5c441cda2",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Referenz_Bild.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "88901fa1-942c-470c-9d10-080a1c25bd92",
+          "panels": [
+            {
+              "blueprint_panel_id": "1be75c80-8cbe-4d3e-878c-0fd967187f2e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Referenz_Template.png",
+                "tint": "#E1E7F2FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "c58d1b38-dbe4-4de5-bfe3-e479f05e392f",
+          "panels": [
+            {
+              "blueprint_panel_id": "064cdbb1-1772-4fc6-8eaa-baaa03e51ff2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Diese Effekte können beliebig oft pro Runde eingesetzt werden:\n<b>Zivil:</b> Bereite eine Karte aus deiner Hand vor.\n<b>Zivil:</b> Produziere eine Aurüstung oder Truppe aus deiner Hand.\n<b>Spionage:</b> Decke einen Plan deiner Wahl auf.\n<b>Spionage:</b> Vertausche die Position zweier benachbarter Pläne."
+              }
+            },
+            {
+              "blueprint_panel_id": "6123385d-cf64-4442-8364-fb46f590c700",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "f4a929b3-c876-40d0-88c6-5eb10c1c015b",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "ebe600a8-3753-44cb-add2-eaca050ab7a0",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9ab7c2c5-ce84-4407-92f5-7bd52336c86f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "7a68978c-4f5c-4c40-8555-38062723e08c",
+              "rotation": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
