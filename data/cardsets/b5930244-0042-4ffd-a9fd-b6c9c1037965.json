@@ -49,10 +49,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -135,10 +131,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nachdem du eine Karte ziehst: Bereite eine Karte vor.\n\n<i>“Im Krieg ist is besser seine Pläne geheim zu halten.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -233,10 +225,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -321,10 +309,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -407,10 +391,6 @@
               "data": {
                 "text": "Wenn du Himmelskunschafter spielst kannst du ihre Kosten um 1 erhöhen um <b>Zivil</b> auf ihr gegen  Militärisch zu tauschen und/oder nochmals um 1 um ihr einen +1 Stärke/+1 Aufklärungsmarker zu geben.\n\n<i>“Ja, es ist schnell und wendig, aber nach nur einer Mission kann ich für Wochen nicht merh sitzen!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -505,10 +485,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -591,10 +567,6 @@
               "data": {
                 "text": "+1 Aufklärung außerhalb des Winters.\n<b>Reaktion:</b> Bevor in einer Jahreszeit Aktivierungen ausgeführt werden: Gebe einem Plan +2 oder -2 Komplexität für diese Jahreszeit.\n\n<i>“Es ist gut gut jemanden auf der anderen Seite zu kennen und noch besser wenn das die andere Seite nicht weiß.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -690,10 +662,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -776,10 +744,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Löse diese Truppe auf und wähle eine Truppe: Sie zieht sich zurück.\n\n<i>“Indoktrinierte Fanatiker, aber auch Irrsinnige haben ihren Nutzen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -866,10 +830,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -952,10 +912,6 @@
               "data": {
                 "text": "Wenn Horchposten ins Spiel kommt und dein Gegner mehr Aufklärung hat als du: Gebe Horchposten einen +1 Aufklärungsmarker.\n\n<b>Zivil:</b> Wähle eine vorbereitete Karte: Drehe sie um.\n\n<i>“An einem schönen Tag sehen wir die Freuden unserer Landschaft und die Schrecken, die der Feind für uns bereit hält.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1048,10 +1004,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Wähle einen verdeckten Plan: Decke ihn auf.\n\n<i>“Strategien entwickeln ist fast langweilig wenn man sie schon so früh kommen sieht.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1149,10 +1101,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1235,10 +1183,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wähle eine Karte: Gebe ihr einen Stärkemalus in Höhe deines Aufklärungsvorsprung.\n\n<i>“...und die Fabrik explodierte ohne Vorwarnung. Ein fassungsloser  Arbeiter gab später zu Protokoll eine mysteriöse Gestalt in der Ferne gesehen zu haben.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1331,10 +1275,6 @@
               "data": {
                 "text": "<i>“Die erste Revolution war es Riesen aus Stahl das Laufen zu lehren. Nun folgt die zweite, die ihnen das fliegen beibringt.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1610,10 +1550,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1704,10 +1640,6 @@
               "data": {
                 "text": "<b>Spionage:</b> Ziehe eine Karte.\n<b>Spionage:</b> Erhalte 2 Ressourcen.\n\n<i>\"Nur wer seine Kräfte vollständig sammelt kann mit aller Härte zuschlagen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1881,10 +1813,6 @@
               "data": {
                 "text": "<b>Spionage:</b> Wähle eine Einheit: Binde sie. \n\n<i>“Es ist nicht nötig den Gegner direkt anzugreifen, wenn man ihn ins Leere laufen lassen kann.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -2236,10 +2164,6 @@
               "data": {
                 "text": "<b>Spionage:</b> Du kannst die kosten an Spionagepunkten dieses Effekts beliebig erhöhen. Füge einer Karte ohne Aufklärung X Schaden zu, wobei X die Spionagekosten dieses Effekts entspricht. \n\n<i>“Warum denkt ihr nur an den Tag, wenn doch die Nacht mindestens genauso tödlich sein kann.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -2594,10 +2518,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -2682,10 +2602,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -2768,10 +2684,6 @@
               "data": {
                 "text": "Als unnegierbare Kosten um Hades ins Spiel zu bringen, löse eine deiner ungebrochenen Ausrüstungen auf.\n<b>Gefecht:</b> Einmal pro Jahreszeit, wähle zwei Karten: Gebe einer Karte -2 Stärke und der anderen +2 Stärke. \n\n<i>“Manche Kriegsfürsten versuchten Tesla zu unterwerfen. Alle sind wieder mit ihrem Schöpfer vereint.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -2861,10 +2773,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -2950,10 +2858,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -3037,10 +2941,6 @@
               "data": {
                 "text": "Als unnegierbare Kosten um Helios ins Spiel zu bringen, werfe eine zufällige Karte ab.\n\n<b>Zivil:</b> Wähle eine deiner Karten: Löse eine \"<b>Zivil:</b>\" Aktion auf ihr aus.\n\n<b>Gefecht:</b> Wähle eine deiner Karten: Löse eine \"<b>Gefecht:</b>\" Aktion auf ihr aus.\n\n<i>\"Energie für die Zukunft!\"</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -3135,10 +3035,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -3214,10 +3110,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Gebe allen gegnerischen eingesetzten Truppen -1 Stärke.\n\n<i>“Die großen Imperien haben Europa für Jahrhunderte Dominiert. Das endet Heute!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -3296,10 +3188,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -3374,10 +3262,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Setze diese Truppe ein.\n\n<b>Gefecht:</b> Wähle eine Karte ohne bereite Ausrüstung: Binde sie.\n\n<i>“Wie kann ich hier die Hände in den Schoß legen, wenn meine Brüder und Schwester ihr Leben riskieren?”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -3456,10 +3340,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -3534,10 +3414,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Gebe deinen eingesetzten Truppen +1 Stärke.\n\n<i>“Jeder kämpft für jeden anderen! Zum Sieg!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -3616,10 +3492,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -3694,10 +3566,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Wähle eine Truppe: Setze ihre Aufklärung für diese Jahreszeit auf 0. Du kannst sie binden, wenn sie <b>zivil</b> ist.\n\n<i>“Ohne Nachschub zerfallen selbst die mächtigsten Armeen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -3776,10 +3644,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -3854,10 +3718,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wähle eine Einheit: Binde sie. Du kannst eine zweite Einheit binden wenn du mindestens eine der eingesetzten Einheiten mit der meisten Stärke im Gefecht kontrollierst.\n\n<i>“Die Schwachen sind Opfer der Starken, so ist es zwischen Staaten wie auch im Gefecht.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -3936,10 +3796,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -4014,10 +3870,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Füge 2 Schaden zu. Das Ziel erhält -1 Stärke für all seine Schadensmarker.\n\n<i>“An alle unterstellen Einheiten, zielt auf die Führerkabine. Feuer!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -4096,10 +3948,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -4174,10 +4022,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Füge einer gebundenen Karte 5 Schaden zu.\n\n<i>“Unsere Soldaten wären bessere Mech-Piloten wenn sie den Schmerz ihrer Maschienen spüren könnten wenn sie sie über die Maßen beanspruchen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -4256,10 +4100,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -4334,10 +4174,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wähle eine eingesetze Einheit und eine weitere in der Reserve des selben Besitzer: Tausche ihre Positionen. Mache beide bereit.\n\n<i>“Wer den Fluß des Krieges lesen kann vermag es den Sturm zu lenken.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -4416,10 +4252,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -4494,10 +4326,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nachdem ein Gefecht das du nur mit dieser Truppe gewonnen hast aufgelöst wird: Mache ihre Einheit bereit.\n\n<i>“Fast schon zu einfach.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -4576,10 +4404,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -4654,10 +4478,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Bevor eine deiner Einheiten durch Karteneffekte eingesetzt oder zurückgezogen wird: Negiere die Bewegung.\n\n<i>“Argh, der sichere Tod. Wird nach dem dritten mal echt langweilig.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -4736,10 +4556,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -4814,10 +4630,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Binde diese Truppe: Füge X Schaden zu, wobei X der Stärke der Einheit diese Truppe entspricht. Ist deine Truppe <b>Schwer</b>, kannst du den Schaden zwischen 2 Karten aufteilen.\n\n<i>“Entfesselt die Hölle!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -4896,10 +4708,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -4976,10 +4784,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -5051,10 +4855,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Erhalte diese Jahreszeit +3 Aufklärung.\n\n<i>“What have you led me to here?”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -5133,10 +4933,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -5211,10 +5007,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Erstelle eine eingesetzten Glücksritter. Löse ihn am Ende dieses Gefechts auf.\n\n<i>“Krieg ist eine Trgödie. Für die Meisten.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -5293,10 +5085,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -5371,10 +5159,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nachdem Verteidiger zugewiesen wurden, falls du mehr eingesetzte Stärke wie dein Gegner hast: Dein Gegner wählt eine seiner eingesetzten Truppen und zieht sie zurück.\n\n<i>“Lasst sie laufen. Sie sind zwar nicht mutig aber wenigstens nicht dumm.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -5453,10 +5237,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -5531,10 +5311,6 @@
               "data": {
                 "text": "Wenn du diesen Befehl spielst kannst du seine Kosten um 1 erhöhen um ihn an zwei Truppen zu geben.\n\n<b>Reaktion:</b> Wärend des Aufmarschs eines Gefechts in dem du verteidigst, mache die Einheit dieser Truppe bereit und setzte sie ein.\n\n<i>“Wir bitten euch ein Letztes mal für eure Familien die Stellung zu halten.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -5613,10 +5389,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -5691,10 +5463,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Mache die Einheit dieser Truppe bereit.\n\n<i>“Mit leerem Magen kann man nicht Kämpfen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -5773,10 +5541,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -5851,10 +5615,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Mache die Einheit dieser Truppe bereit. Aktionen und Reaktionen in ihrer Einheit können dieses Gefecht ein weiteres mal eingesetzt werden.\n\n<i>“Selbst unter großer Gefahr finden Menschen kurze Momente der Ruhe.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -5933,10 +5693,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -6011,10 +5767,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nach einem Gefechtabschluss den du als Verteidiger verloren hast, wähle eine deiner Truppen: <b>Angriff</b>, in dessen Einsetzphase du nur die gewählte Truppe einsetzten kannst.\n\n<i>“Diese Aggresion werden wir nicht dulden.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -6093,10 +5845,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -6171,10 +5919,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nach der Einsetzphase eines Gefechtes: Erhalte die Initiative bis zum Ende des Gefechtes.\n\n<b>Reaktion:</b> Nach einem Aufmarsch: Setze diese Truppe ein.\n\n<i>“Darauf sind sie nicht vorbereitet.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -6253,10 +5997,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -6331,10 +6071,6 @@
               "data": {
                 "text": "Kostet eins weniger wenn du die nitiative hast.\n\nWenn diese Karte vorbereitet ist kannst du sie zu beginn der entsprechenden Jahreszeit umdrehen und spielen.\n\n<b>Zivil:</b> Binde eine Einheit. Mache sie am Ende der Jahreszeit wieder bereit.\n\n<i>“Was zur Hölle ist das?\"</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -6413,10 +6149,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -6491,10 +6223,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Durchsuche dein Deck nach einer Tesla Karte. Zeige sie und nimm sie auf die Hand. Mische dein Deck.\n\n<b>Gefecht:</b> Gebe dieser Truppe +1 Stärke für jede Tesla Karte die du kontrollierst.\n\n<i>“Erinnere sie daran wer Europa wirklich beherscht!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -6573,10 +6301,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -6653,10 +6377,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -6728,10 +6448,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Binde diese Truppe: Ziehe eine gegnerische Truppe zurück. Dein Gegner kann einen, oder zwei wenn die gegnerische Truppe schwer ist, Rekruten in seiner Reserve oder eingesetzt ins Spiel bringen.\n\n<i>“Lass uns herausfinden wie viel sie noch ertragen können.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -6812,10 +6528,6 @@
               "data": {
                 "text": "Immer wenn du einen gegnerischen Plan aufdeckst, lege eine Spionage-Marker auf Geheimes Treffen.\n<b>Zivil: </b>Wenn Geheimes treffen mindestens 3 Spionage-Marker hat, zerstöre geheimes Treffen: Führe die Operation eines Plans in deinem Strategiedeck aus.\n\n<i>“Die Welt darf niemals wissen was hier besprochen wurde. Zumindest nicht bis es zu spät ist.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -6904,10 +6616,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -6990,10 +6698,6 @@
               "data": {
                 "text": "Immer wenn diese Truppe eingesetzt wird, Ziehe 1 Karte. Werfe eine Karte ab.\n\n<i>“Ich kann sehen!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -7082,10 +6786,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -7168,10 +6868,6 @@
               "data": {
                 "text": "Kostet 1 weniger wenn diese Truppe Kavallerie hat.\n\n<b>Gefecht:</b> Einmal pro Gefecht: Mache die Kavalerie Stoßtruppe bereit. Rüste eine deiner zugewiesenen bereiten Truppen mit ihr aus.\n\n<i>“Attacke!!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -7258,10 +6954,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -7344,10 +7036,6 @@
               "data": {
                 "text": "Diese Einheit kann selbst gebunden Aktionen durchführen. \nGefecht: Löse eine Gefechtsaktion auf dieser Einheit aus. Kosten, die Karten in dieser Einheit binden würden können dabei ignoriert werden. Löse diese Karte auf.\n\n<i>“Was nützt einen Kraft ohne Ausdauer?”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -7434,10 +7122,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -7520,10 +7204,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wähle eine gepanzerte Truppe: Sie zieht sich zurück.\n\n<i>“Je größer sie sind umso härter wird ihr Sturz.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -7610,10 +7290,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -7696,10 +7372,6 @@
               "data": {
                 "text": "Diese Truppe erhält Militärisch.\n\n<i>“Auf diesen Angriff haben wir uns schon seit Monaten vorbereitet. Lasst uns dem Sturm gemeinsam trotzen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -7786,10 +7458,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -7872,10 +7540,6 @@
               "data": {
                 "text": "Wenn diese Truppe Kavalerie hat, gebe Explosivlanze +1 Stärke.\nImmer wenn diese Truppe eingesetzt wird kannst du eine eingesetzte Karte binden. \n\n<i>“Es sieht mittelalterlich aus, aber das ist denen am spitzen Ende kein echter Trost.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -7962,10 +7626,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -8048,10 +7708,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Füge 3 Schaden zu, welcher zwischen verschiedenen zielen verteilt werden darf.\n\n<i>“Und deshalb gehen wir in Deckung und halten unseren Kopf unten.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -8138,10 +7794,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -8224,10 +7876,6 @@
               "data": {
                 "text": "Kostet 1 weniger wenn diese Truppe <b>weitreichend</b> ist.\nWenn diese Einheit eine Aktion durchführt die <b>Schaden</b> zufügt kann der zugefügte <b>Schaden</b> Karten in der Gegnerischen Reserve treffen.\n\n<i>“Niergends ist es sicher!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -8314,10 +7962,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -8400,10 +8044,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wenn diese Einheit sich bewegen würde: Negiere die Bewegung.\n\n<i>“Beruige dich, Brunhilde hält das aus.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -8490,10 +8130,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -8576,10 +8212,6 @@
               "data": {
                 "text": "Während diese Einheit eingesetzt ist erhalte +3 Aufklärung.\n\n<i>“Solltest du eins erspähen, geh in Deckung! Es wird bald anfangen zu Regnen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -8666,10 +8298,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Wähle eine <b>Zivile</b> Truppe ohne Aufklärung: Binde sie.\n\n<i>“Ein Blick so kalt wie ihr Herz.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -8764,10 +8392,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -8852,10 +8476,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -8932,10 +8552,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -9010,10 +8626,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Binde diese Truppe: Gebe ihr 3 Stärke-Marker, 4 wenn diese Truppe mittelschwer und 5 wenn sie schwer ist.\n\n<i>\"So gut wie neu.\"</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -9096,10 +8708,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -9175,10 +8783,6 @@
               "data": {
                 "text": "Wenn diese Karte vorbereitet ist kannst du sie zu beginn der entsprechenden Jahreszeit umdrehen und spielen.\n\n<b>Zivil:</b> Gebe dieser Truppe +5 Stärke für diese Jahreszeit.\n\n<i>“Sachsen werden mit eiserner Faust großgezogen damit sie genau diese auf dem Schlachtfeld sein können.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -9258,10 +8862,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -9337,10 +8937,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nachdem du einen Gefecht gewonnen hast: Ziehe 3 Karten und erhalte 1 Resource. Werfe eine Karte ab. Du kannst nur ein Melde den Sieg pro Gefecht spielen.\n\n<i>“Wie versprochen, ein markelloser Sieg.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -9419,10 +9015,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -9497,10 +9089,6 @@
               "data": {
                 "text": "Kostet 1 weniger wenn du dieses Spiel 2 oder weniger Brunhilde Ausrüstungen gespielt.\n\n<b>Zivil:</b> Decke die oberste Karte deines Decks auf bis du eine Brunhilde Ausrüstung aufdeckst. Nimm sie auf die Hand. Mische die übrigen aufgedeckten Karten in dein Deck.\n\n<i>“Nach einem stressigen Tag in der schlacht liebe ich es mich mit meiner Freunding zu entspannen. \u000bAlso, reiche mir den Maulschlüssel.”\u000b– Frida Rüte </i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -9578,10 +9166,6 @@
               "data": {
                 "text": "Nachdem Sturmtruppen im Winter ins Spiel kommen, ziehe 1 Karte.\n\nSturmtruppen haben im Winter und Frühling +1 Stärke.\n\n<i>“Die ersten im Angriff, die ersten zum Sieg.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -9669,10 +9253,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -9756,10 +9336,6 @@
               "data": {
                 "text": "(<b>Weitreichende</b> Karten können ihre Aktionen und Raktionen in Gefechten auslösen, an denen sie nicht Teilnehmen, solange du eingesetzte Truppen kontrollierst.)\n<b>Gefecht:</b> Wähle eine gegnerische Karte: Ihr Besitzer kann sie binden. Ist sie nun bereit oder war sie bereits gebunden, füge ihrer Einheit 3 Schaden zu.\n\n<i>“Eiserne Haut, eisernes Herz.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -9847,10 +9423,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -9933,10 +9505,6 @@
               "data": {
                 "text": "Wenn Erlkönig als Angreifer eingesetzt ist kann Schaden von Aktionen die er ausführt Ziele in der gegnerischen Reserve Treffen. In diesem Fall, reduziere den Schaden um 1.\n\n\u000b<b>Gefecht:</b> Füge 3 Schaden zu. Gebe dem Ziel -2 Stärke.\n\n<i>“Der Lange Arm des Kaiserreichs.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -10023,10 +9591,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -10110,10 +9674,6 @@
               "data": {
                 "text": "Isegrims Einheit wird während der Gefechtsauflösung nicht gebunden, wenn du gewonnen hast.\n\n<i>“Heute Nacht sind die Wölfe auf der Jagt!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -10202,10 +9762,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -10288,10 +9844,6 @@
               "data": {
                 "text": "Kaiser kostet 1 weniger wenn er an einem militärischen Plan vorbereitet ist.\n\n<b>Gefecht:</b> Wähle eine gegnerische Truppe: Sie zieht sich zurück. Binde ihre Einheit wenn sie sich zurückzieht.\n\n<b>Reaktion:</b> Nachdem Kaiser gebunden wird: Mache ihn bereit.\n\n<i>“Das Juwel in der Krone sächsischer Ingenieurskunst.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -10378,10 +9930,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -10464,10 +10012,6 @@
               "data": {
                 "text": "Die aufgedruckte Stärke deiner gepanzerten Truppen gilt um 1 erhöht wenn bestimmt wird ob die Truppe gebrochen ist.\n\n<b>Zivil:</b> Gebe einer gepanzerten Truppe einen +1 Stärke Marker.\n\n<i>“Wir gebähren eine neue Welt aus geschmolzenem Stahl.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -10554,10 +10098,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -10640,10 +10180,6 @@
               "data": {
                 "text": "Kann nicht in Decks beinhaltet werden. Kann von keinen Effekten außerhalb dieser Karte beeinflusst werden. Kann an kämpfen nicht teilnehmen (ziehe sie zurück falls sie im Gefecht ist).\nWenn der Winter beginnt, drehe diese Karte um.\n\n<i>“Ich habe schon schlimmeres erlebt.” – Frida Rüte </i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -10730,10 +10266,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -10816,10 +10348,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wähle eine gegnerische Karte in einer Einheit mit weniger Stärke als diese Einheit: Füge der Karte 3 Schaden zu.\n\n<i>“Größer ist immer besser.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -10906,10 +10434,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -10992,10 +10516,6 @@
               "data": {
                 "text": "Einmal pro Deck. Diese Truppe erhält <b>Weitreichend</b>. \n<b>Gefecht:</b> Wähle eine gegnerische Einheit mit weniger Stärke als diese Einheit: Ziehe die Einheit zurück. Binde sie wenn sie sich zurückzieht.\n\n<i>“Lass uns einen Drachen töten.”\u000b – Frida Rüte </i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -11082,10 +10602,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -11168,10 +10684,6 @@
               "data": {
                 "text": "Einmal pro Deck. Deine andere eingesetzten Truppen haben +1 Stärke.\n<b>Gefecht:</b> Ist diese Karte eingesetzt: Setzte eine andere deiner Einheiten ein.\n\n<i>“Kein lebender Sachse hat mehr Schlachten erlebt als Brunhilde und sie trägt ihre Narben mit Stolz!”\u000b– Frida Rüte</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -11258,10 +10770,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -11346,10 +10854,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -11432,10 +10936,6 @@
               "data": {
                 "text": "Einmal pro Deck.\n\n<b>Gefecht/Zivil:</b> Werfe eine deiner Infanterie Truppen ab oder löse sie auf um dieser Karte einen Schützenmarker zu geben.\n<b>Gefecht:</b> Füge 2 Schaden zu. Füge 2 Schaden zu wenn Breitseitenkanonen einen Schützenmarker hat.\n\n<i>“Kommt rein und bringt das Feuer der Hölle über sie!”– Frida Rüte</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -11524,10 +11024,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -11610,10 +11106,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nachdem du einen Gefecht als Verteidger gewonne hast: Mache alle geflügelten Hussaren bereit und <b>greife an</b>. Nur einmal auslösbar pro Jahreszeit. Du kannst nur geflügelte Hussaren einsetzten.\n\n<i>“Es ist der Mut und das Können der Jahrhunderte welches sie heute gegen Monster aus Stahl reiten lässt.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -11701,10 +11193,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -11787,10 +11275,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Binde Śmiały und ziehe ihn zurück: Ziehe eine gegnerische Truppe zurück.\n\n<i>“Ein Wunder Polanischer Ingenieurskunst. Nichts sagt “Verschwindet aus unserem Land!” so deutlich wie ein 4-Tonnen Bayonetangriff.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -11877,10 +11361,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -11963,10 +11443,6 @@
               "data": {
                 "text": "Beschädigte gegnerische Karten im selben Gefecht wie Lowca haben -1 Stärke.\n\n<b>Gefecht:</b> Füge einer Karte in einer Gepanzerten Einheit 4 Schaden zu.\n\n<i>“Die längste Zeit war Polania nur für die Hinterhalt-Taktik mit leichten Waffeln bekannt. Ihre Gegner wurden arrogant und versteckten sich hinter Schwerer Panzerung. Lasst unsere Feinde ihre Fehler bei ihrem Schöpfer beklagen!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -12053,10 +11529,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -12139,10 +11611,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Gebe Zółw für diese Runde <b>Immobil</b> und +2 Stärke (eine <b>immobile</b> Truppe kann nicht angreifen).\n\n<i>\"Ein Bunker auf vier Beinen.\"</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -12229,10 +11697,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -12317,10 +11781,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -12403,10 +11863,6 @@
               "data": {
                 "text": "Erhöhe deine Resilienz um 2 solange diese Karte im Spiel ist.\n\n<i>“Von allen Großmächten sieht nur Polania die Einheimischen als das, was sie sind: Menschen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -12503,10 +11959,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -12599,10 +12051,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -12677,10 +12125,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Gebe dieser Truppe +X Stärke, wobei X deiner halben, aufgerundeten Resilienz entspricht.\n\n<i>“Wenn die Bevölkerung sich gegen eine Armee stellt, dann kämpft sie immer an zwei Fronten. Dieses Problem hat Polania nicht.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -12759,10 +12203,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -12839,10 +12279,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -12917,10 +12353,6 @@
               "data": {
                 "text": "Diese Karte kostet 1 weniger für jede Unterstützung die du hast.\n\n<b>Zivil:</b> Erhalte +4 Aufklärung diese Jahreszeit.\n\n<i>“Albion entsendet Grüße.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -13000,10 +12432,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -13074,10 +12502,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Erhöhe deine Resilienz um 2 diese Runde.\n\n<b>Gefecht:</b> Erhöhe deine Resilienz um 2 für dieses Gefecht.\n\n<i>“Wir werden nicht nachgeben. Polania wird durchhalten!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -13154,10 +12578,6 @@
               "data": {
                 "text": "Die gedruckte Stärke von verteidige den Frieden ist gleich deiner Resilienz -3.\n\n<i>“Wir wollten diesen Krieg nie, wir werden ihn aber dennoch Kämpfen müssen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -13244,10 +12664,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -13330,10 +12746,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Ziehe diese Truppe zurück: Füge 3 Schaden zu.\n\n<i>“Feuerkraft und Mobilität müssen sich nicht widersprechen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -13422,10 +12834,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -13508,10 +12916,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wenn du mehr Truppen im Gefecht hast als dein Gegner, selbst wenn die Vorreiter gebunden sind, wähle eine gegnerische Karte: Setze die Vorreiter ein. Gebe der gewählten Karte -2 Stärke.\n\n<i>“Harte Männer aus der Steppe für harte Aufgaben auf dem Schlachtfeld!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -13600,10 +13004,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -13686,10 +13086,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nachdem eine Einheit durch einen Karteneffekt in diesem Gefecht eigesetzt wird, wenn Nakovalnya eingesetzt ist: Nakovalnya fügt der Einheit ihr 2 Schaden zu. Du kannst diese Aktion so oft pro Runde ausführen, wie du willst (<i>einmal pro Auslöser</i>).\n\n<b>Gefecht:</b> Füge 2 Schaden zu und danach nochmal 2 Schaden der nur gebundenen Karten zugefügt werden kann.\n<i>“Rusviet’s Lieblingsinstrument in der Symphonie des Krieges.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -13775,10 +13171,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Zweimal pro Runde, binde eine Karte ohne bereite Ausrüstung. Gib ihr -2 Stärke.\n\n<i>“Fürchte den Schnitter.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -13867,10 +13259,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -13956,10 +13344,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -14043,10 +13427,6 @@
               "data": {
                 "text": "Gebundene, gegenüberstehende Truppen haben -1 Stärke.\n\n<b>Gefecht:</b> Binde eine eine gegenüberstehende Karte. War sie bereits gebunden und besitzt keine Ausrüstung, zerstöre Sie stattdessen.\n\n<i>“Der Amboss der roten Armee.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -14135,10 +13515,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -14221,10 +13597,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Deine eingesetzten Rekruten erhalten \n+1 Stärke.\n\n<b>Zivil:</b> Erstelle einen Rekruten auf deiner Hand.\n\n<i>“Die Kinder von Mutter Rusviet für unseren Vater, den Zaren.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -14310,10 +13682,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wähle einn vorbereiteten Befehl: Löse eine seiner <b>Gefecht:</b> Aktionen aus. Du kannst ihn während der Vorbereitungsphase auf deine Hand nehmen.\n\n<i>“Seine Knochen mögen schmerzen, seine Augen mögen milchig sein, aber sein Geist ist so scharf wie einst seine Klinge”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -14408,10 +13776,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -14496,10 +13860,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -14575,10 +13935,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Löse diese Truppe auf: Binde eine gegnerische Einheit. Setze ihre Aufklärung auf 0 für diese Jahreszeit.\n\n<i>“Osteuropa ist der Spielplatz des Zaren. Seine Figuren sind bereits platziert.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -14657,10 +14013,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -14735,10 +14087,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Für den Rest des Gefechts, immer wenn eine deiner Aktionen eine deiner nicht-Marker Truppen auflöst, bringe sie gebunden in deiner Reserve ins Spiel zurück (<i>zahle keine Kosten</i>).\n\n<i>“Wir haben schon deutlich Schlimmeres überstanden.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -14818,10 +14166,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Gib beliebig vielen Rekruten eine Ausbildungsmarke.\n\n<b>Reaktion:</b> Bevor eine Gefechtsauflösung Einheiten bindet: Die Einheiten deiner Rekruten werden nicht gebunden.\n\n<i>“Wir haben nichts zu verlieren außer unseren Ketten.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -14904,10 +14248,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -14984,10 +14324,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -15062,10 +14398,6 @@
               "data": {
                 "text": "Gebe dieser Truppe Gepanzert. Sie kann eine weitere Ausrüstung rüsten. Wenn sie einen Trainings-Marker hat kann sie selbst gebunden Aktionen durchführen.\n\n<i>“Wer zuerst das Feld betritt, erntet die Belohnung.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -15152,10 +14484,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -15238,10 +14566,6 @@
               "data": {
                 "text": "Nachdem du Speznas Training ausgerüstet hast, gebe dieser Truppe eine Ausbildungsmarke.\n\nWenn eine deiner Aktionen es erfordert eine Truppe aufzulesen, kannst du stattdessen Speznas Training auflösen.\n\n<i>“Viele Männer riskieren ihr Leben für das Mutterland. Einige haben sicher ein besonderes Talent dafür.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -15329,10 +14653,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -15407,10 +14727,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Löse eine Ausrüstung dieser Truppe auf: Eine Einheit (<i>deiner Wahl</i>) zieht sich zurück. Wenn du sie nicht kontrollierst wird sie nach dem Rückzug gebunden.\n\n<i>“Die tückischen Ödlandschaften des Nordens lehren die Menschen dort Entbehrungen. Südländler könnten das nicht ertragen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -15489,10 +14805,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -15567,10 +14879,6 @@
               "data": {
                 "text": "<b>Reaktion:</b> Nachdem eine Gegnerisch Aktion eine deiner Ausrüstungen als Ziel wählt: Ignoriere den Effekt der Aktion auf die Ausrüstung.\n\n<b>Gefecht:</b> Gebe allen Karten in dieser Einheit +1 Stärke.\n\n<i>“Ob Raubzug, Erkundung oder Handel - immer wenn mutige Seeleute in See stechen, hoffen sie auf das Beste, erwarten aber auch das Schlimmste.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -15649,10 +14957,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -15727,10 +15031,6 @@
               "data": {
                 "text": "Du kannst die Weißhaarigen Jäger auch als Ausrüstung an eine amphibische Truppe spielen.\n\n<b>Gefecht:</b> Die Weißhaarigen Jäger erhalten +1 Stärke für jede andere deiner eingesetzten amphibischen Karten.\n\n<i>“Erfahrene Männer und Frauen. Gestählt durch Gefecht und Ozean.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -15817,10 +15117,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -15905,10 +15201,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -15991,10 +15283,6 @@
               "data": {
                 "text": "<b>Zivil: </b>Ziehe eine Karte: Werfe eine Karte ab.\n<b>Gefecht: </b>Ziehe eine Karte: Werfe eine Karte ab.\n\n<i>“Die Stärke des Nordens liegt in seiner Lust auf Abenteuer, die mit jeder Reise wächst.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -16083,10 +15371,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -16170,10 +15454,6 @@
               "data": {
                 "text": "Zahle 2 Ressourcen weniger, wenn du Knörr ins Spiel bringst. Knörr hat während dem Gefechtsabschluss 2 Stärke weniger.\n\n<i>“Auch wenn die Nordischen Drachenboote berühmter sind, ist es seine Handelsflotte auf die auf der die Macht des Nordens aufgebaut ist.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -16261,10 +15541,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -16347,10 +15623,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Binde Naglfar und wähle eine gegnerische Einheit mit weniger Karten als Naglfars Einheit: Die gewählte Einheit zieht sich zurück.\n\n<i>“Das Einzige, was den Ozean schneller überquert als nordische Schiffe, ist die Furcht, die sich ausbreitet, wenn Drachenköpfe am Horizont auftauchen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -16437,10 +15709,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "padding": "0.1, 0.07, 0.1, 0.14",
@@ -16525,10 +15793,6 @@
               "data": {
                 "text": "Die Aufklärung von sicherer Hafen entspricht der Anzahl deiner Amphibischen Truppen.\n\n<i>“Hier treffen sich Menschen aus aller Welt mit ihren Geheimnissen im Schlepptau.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -16625,10 +15889,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -16711,10 +15971,6 @@
               "data": {
                 "text": "Gebe dieser Truppe <b>Amphibisch</b>.\n\n<i>“Es ist schwer, eine Meile Meer zu finden, ein Stück Land, das ein nordischer Stiefel noch nicht berührt hat. Aber wir geben nicht auf.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -16811,10 +16067,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -16897,10 +16149,6 @@
               "data": {
                 "text": "<b>Reaktion: </b>Zu beginn einer Jahreszeit, zerstöre eine Ausrüstung in dieser Einheit: Mache diese Einheit bereit.\n\n<i>“Im Eis der Tundra liegt so mancher Schatz begraben.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -16987,10 +16235,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -17073,10 +16317,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wähle eine Einheit mit weniger Karten als diese Einheit: Füge ihr 3 Schaden zu.\n\n<i>“Die Befestigungen waren für einen Rusviet Landangriff gebaut worden. Als die ersten Granaten vom Meer her einschlugen, wussten die Verteidiger, dass sie verloren waren.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -17163,10 +16403,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -17251,10 +16487,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -17333,10 +16565,6 @@
               "data": {
                 "text": "Kann nicht in Decks beinhaltet werden.\nSöldneroffizier gilt immer als gebrochen, wenn er beschädigt ist.\n\n<i>“Auch wenn unsere Ressourcen und unser Fachwissen sehr umfangreich ist, ist es immer gut zu wissen, dass es talentierte Leute gibt, die einem helfen würden. Für einen gewissen Preis.\" - Günter von Duisburg</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -17427,10 +16655,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -17509,10 +16733,6 @@
               "data": {
                 "text": "\nKann nicht in Decks beinhaltet werden.\nNachdem Rekruten ins Spiel kommen und du mehr als 6 Rekruten kontrolierst, löse solange Rekruten auf bis du höchstens 6 kontrolierst. Solange die Rekruten mindestens eine Ausbildungsmarke besitzen, haben sie +1 Stärke.\n\n<i>“Für die meisten Offiziere sind sie nur frisches Kanonenfutter.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",

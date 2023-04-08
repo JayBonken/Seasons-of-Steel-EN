@@ -31,11 +31,11 @@
           "anchor_max_render": "1, 1",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/2e1e7089-4283-49f0-8b00-79a26cb73aa6.png",
+            "uri": "%PROJECT%/5a9ccb9a-cdc6-48c9-9f0d-03cb20c917dc.png",
             "mask_uri": "",
             "fit_mode": "fit",
             "zoom": 1.0,
-            "offset": "0, 0",
+            "offset": "0.002572458, 0.06722689",
             "tint": "#FFFFFFFF"
           },
           "sort_mode": "0",
@@ -496,7 +496,7 @@
     },
     {
       "layer_id": "f8cc5100-8296-48ae-8d15-1ef2a57ce29c",
-      "name": "",
+      "name": "Card Layout",
       "padding": 0.0629921257,
       "spacing": 0.0,
       "panels": [
@@ -596,16 +596,16 @@
   ],
   "back_layers": [
     {
-      "layer_id": "aa06f143-82be-4d6a-9a5b-27154ad5b62a",
-      "name": "Layer 01 Back",
-      "padding": 2.638507E-05,
-      "spacing": 0.025,
+      "layer_id": "2e9527dc-829d-49f5-8133-9b4b2476c769",
+      "name": "Frame border",
+      "padding": 0.0,
+      "spacing": 0.0,
       "panels": [
         {
-          "panel_id": "f466c161-ac30-4987-bf45-f2990052dd76",
+          "panel_id": "feaa9d0d-b134-448a-b1e8-8aed6a50a4d2",
           "name": "",
           "enabled": true,
-          "locked": false,
+          "locked": true,
           "rotation": 0,
           "padding": "0, 0, 0, 0",
           "material_name": "Blank",
@@ -617,7 +617,42 @@
           "anchor_max_render": "1, 1",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/b8abf1c1-700f-4906-bef0-ba47d3d6d8f2.png",
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#000000FF"
+          },
+          "sort_mode": "19",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "aa06f143-82be-4d6a-9a5b-27154ad5b62a",
+      "name": "Backside Image",
+      "padding": 0.07874016,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "f466c161-ac30-4987-bf45-f2990052dd76",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/PLAN-BACKSIDE - Kopie.png",
             "mask_uri": "",
             "fit_mode": "fit",
             "zoom": 1.0,
@@ -626,6 +661,76 @@
           },
           "sort_mode": "18",
           "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "87c58a7f-7729-4c3d-aa40-f328053f7789",
+      "name": "Text",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "ffa4c566-d97f-428b-8e82-73e12bfd5cad",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 0.6782713",
+          "anchor_max_render": "1, 0.6782713",
+          "type": "text",
+          "data": {
+            "font_family": "",
+            "font_preferred_size": 24,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "22",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "9e87da66-e106-4e52-807e-bf1117a87cee",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.6782713",
+          "anchor_min_render": "0, 0.6782713",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "text",
+          "data": {
+            "font_family": "SF Archery Black",
+            "font_preferred_size": 40,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "SEASONS OF STEEL",
+            "color": "#FFFFFFFF",
+            "outline_length": 2.0,
+            "outline_color": "#2828288B",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "21",
+          "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
       ]

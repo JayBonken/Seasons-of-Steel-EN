@@ -50,10 +50,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -140,10 +136,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -226,10 +218,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Binde Naglfar und wähle eine gegnerische Einheit mit weniger Karten als Naglfars Einheit: Die gewählte Einheit zieht sich zurück.\n\n<i>“Das Einzige, was den Ozean schneller überquert als nordische Schiffe, ist die Furcht, die sich ausbreitet, wenn Drachenköpfe am Horizont auftauchen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -316,10 +304,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -402,10 +386,6 @@
               "data": {
                 "text": "Hringhorni kostet 1 weniger wenn er an einen ökonomischen Plan vorbereitet ist.\nAusrüstung, die an Hringhorni ausgerüstet wird, kostet 1 Ressource weniger und können als Gefechtsaktion ausgerüstet werden.\n<b>Gefecht:</b> Füge X Schaden zu, wobei X die Anzahl der Karten in Hringhornis Einheit +2 ist.\n\n<i>\"Das Schlachtschiff der Götter.\"</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -493,10 +473,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -579,10 +555,6 @@
               "data": {
                 "text": "Gebe dieser Truppe <b>Amphibisch</b>.\n\n<i>“Es ist schwer, eine Meile Meer zu finden, ein Stück Land, das ein nordischer Stiefel noch nicht berührt hat. Aber wir geben nicht auf.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -677,10 +649,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -765,10 +733,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -851,10 +815,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wähle eine Einheit mit weniger Karten als diese Einheit: Füge ihr 3 Schaden zu.\n\n<i>“Die Befestigungen waren für einen Rusviet Landangriff gebaut worden. Als die ersten Granaten vom Meer her einschlugen, wussten die Verteidiger, dass sie verloren waren.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -943,10 +903,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1031,10 +987,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1110,10 +1062,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Du erhälst bis zum Ende der Jahreszeit +1 Aufklärung pro Karte in dieser Einheit.\n\n<i>“Der Nordstern weist uns den Weg.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1192,10 +1140,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1270,10 +1214,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Wähle eine Truppe: Setze ihre Aufklärung für diese Jahreszeit auf 0. Du kannst sie binden, wenn sie <b>zivil</b> ist.\n\n<i>“Ohne Nachschub zerfallen selbst die mächtigsten Armeen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1352,10 +1292,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1430,10 +1366,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Setze eine Truppe die du kontrollierst ein.\n\n<i>“Krieg ist mehr Logistik als Feuerkraft.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",

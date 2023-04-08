@@ -50,10 +50,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -139,10 +135,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -226,10 +218,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Binde Grimbart und wähle eine gegnerische leichte Truppe: Sie zieht sich zurück.\n\n<i>“So hartnäckig wie sein Namensfetter. Das wütende Gebrüll seiner Waffe erklingt wo immer ein Sächsischer Sieg naht.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -408,10 +396,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -486,10 +470,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Erstelle eine eingesetzten Glücksritter. Löse ihn am Ende dieses Gefechts auf.\n\n<i>“Krieg ist eine Trgödie. Für die Meisten.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -568,10 +548,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -646,10 +622,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Wenn du der Angreifer bist: Gebe dieser Truppe +5 Stärke. Erhöhe die gegnerischen Resilienz um 2.\n\n<i>“Wir werden hier siegen, selbst wenn wir alles dem Erdboden gleich machen müssen!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -728,10 +700,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -808,10 +776,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -886,10 +850,6 @@
               "data": {
                 "text": "Kaiser kostet 1 weniger wenn er an einem militärischen Plan vorbereitet ist.\n\n<b>Gefecht:</b> Wähle eine gegnerische Truppe: Sie zieht sich zurück. Binde ihre Einheit wenn sie sich zurückzieht.\n\n<b>Reaktion:</b> Nachdem Kaiser gebunden wird: Mache ihn bereit.\n\n<i>“Das Juwel in der Krone sächsischer Ingenieurskunst.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -977,10 +937,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1066,10 +1022,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1144,10 +1096,6 @@
               "data": {
                 "text": "<b>Zivil:</b> Gebe dieser Truppe für diese Jahreszeit X Aufklärung, wobei X ihrer aufgedruckten Stärke entspricht. \n\n<i>“Irgendwie erzählern mir Menschen weniger Lügen wenn Brunhilde in der Nähe ist.” - Günter von Duisburg</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1226,10 +1174,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1306,10 +1250,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1384,10 +1324,6 @@
               "data": {
                 "text": "<b>Zivil:</b> <b>Angriff</b>.\n\n<i>“Sachsen schenkt ihren Feinden keine Ruhe.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",

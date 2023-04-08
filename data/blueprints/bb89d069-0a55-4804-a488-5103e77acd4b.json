@@ -117,28 +117,8 @@
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
         {
-          "panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-          "name": "keywords",
-          "enabled": true,
-          "locked": false,
-          "rotation": 0,
-          "padding": "0.25, 0.03, 0, 0.03",
-          "material_name": "Blank",
-          "material_selection": 0,
-          "material_tint": "#00000000",
-          "anchor_min": "0, 0.3372133",
-          "anchor_min_render": "0, 0.3372133",
-          "anchor_max": "1, 0.3522978",
-          "anchor_max_render": "1, 0.3522978",
-          "type": "none",
-          "data": {},
-          "sort_mode": "3",
-          "split_mode": "horizontal",
-          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
-        },
-        {
           "panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
-          "name": "Keywords",
+          "name": "keywords",
           "enabled": true,
           "locked": false,
           "rotation": 0,
@@ -163,7 +143,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "4",
+          "sort_mode": "3",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -183,7 +163,7 @@
           "anchor_max_render": "1, 0.9144868",
           "type": "none",
           "data": {},
-          "sort_mode": "5",
+          "sort_mode": "4",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -214,7 +194,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "6",
+          "sort_mode": "5",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -262,7 +242,7 @@
           "anchor_max_render": "0.1408304, 0.7450078",
           "type": "none",
           "data": {},
-          "sort_mode": "7",
+          "sort_mode": "6",
           "split_mode": "horizontal",
           "parent_panel_id": "9ef737e2-d49d-4319-b8d2-c5e6d47407ff"
         },
@@ -293,7 +273,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "8",
+          "sort_mode": "7",
           "split_mode": "horizontal",
           "parent_panel_id": "9ef737e2-d49d-4319-b8d2-c5e6d47407ff"
         },
@@ -324,7 +304,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "9",
+          "sort_mode": "8",
           "split_mode": "horizontal",
           "parent_panel_id": "9ef737e2-d49d-4319-b8d2-c5e6d47407ff"
         },
@@ -355,7 +335,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "10",
+          "sort_mode": "9",
           "split_mode": "horizontal",
           "parent_panel_id": "9ef737e2-d49d-4319-b8d2-c5e6d47407ff"
         },
@@ -375,7 +355,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "11",
+          "sort_mode": "10",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -384,16 +364,16 @@
   ],
   "back_layers": [
     {
-      "layer_id": "8ca6edf0-2965-48b0-bee1-63c6850c0065",
-      "name": "Layer 01 Back",
-      "padding": 2.638507E-05,
-      "spacing": 0.025,
+      "layer_id": "e2112fa3-2554-478b-b6a6-9994c3741437",
+      "name": "Frameborder",
+      "padding": 0.0,
+      "spacing": 0.0,
       "panels": [
         {
-          "panel_id": "a9a615c6-9016-4466-b146-3cefc66e5805",
+          "panel_id": "5e50492d-b750-47f5-9d2e-77a1f900c006",
           "name": "",
           "enabled": true,
-          "locked": false,
+          "locked": true,
           "rotation": 0,
           "padding": "0, 0, 0, 0",
           "material_name": "Blank",
@@ -405,15 +385,109 @@
           "anchor_max_render": "1, 1",
           "type": "image",
           "data": {
-            "uri": "%PROJECT%/b8abf1c1-700f-4906-bef0-ba47d3d6d8f2.png",
+            "uri": "",
             "mask_uri": "",
             "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#000000FF"
+          },
+          "sort_mode": "11",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "8ca6edf0-2965-48b0-bee1-63c6850c0065",
+      "name": "Layer 01 Back",
+      "padding": 0.07874016,
+      "spacing": 0.025,
+      "panels": [
+        {
+          "panel_id": "a9a615c6-9016-4466-b146-3cefc66e5805",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "%PROJECT%/BACKSIDE.png",
+            "mask_uri": "",
+            "fit_mode": "stretch",
             "zoom": 1.0,
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
           "sort_mode": "12",
           "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "9e4667a8-93f2-4e2a-bd0b-c65e43e056e2",
+      "name": "Titel",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "32b9feb3-78e4-4690-8002-b93cf69bfede",
+          "name": "",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 0.8031213",
+          "anchor_max_render": "1, 0.8031213",
+          "type": "none",
+          "data": {},
+          "sort_mode": "13",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "d6c093f1-504f-40a2-885f-daf007fa6ddb",
+          "name": "",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.8031213",
+          "anchor_min_render": "0, 0.8031213",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 0.9999999",
+          "type": "text",
+          "data": {
+            "font_family": "SF Archery Black",
+            "font_preferred_size": 40,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "SEASONS OF STEEL",
+            "color": "#FFFFFFFF",
+            "outline_length": 2.0,
+            "outline_color": "#2B2B2B90",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "14",
+          "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
       ]

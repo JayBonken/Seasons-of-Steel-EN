@@ -51,10 +51,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -142,10 +138,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -221,10 +213,6 @@
               "data": {
                 "text": "Als unnegierbare Kosten um “Hephaestus” ins Spiel zu bringen, binde eine deiner militärischen Truppen.\n\n<b>Gefecht:</b> Negiere alle Stärkemodifizierungen durch Aktionen auf Karten in einer Einheit.\n\n<i>“Tesla hat sich in der Fabrik verbarrikadiert und ignoriert die kleinlichen Machtkämpfe europäischer Monarchen.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -313,10 +301,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -400,10 +384,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Binde Ognivo: Gebe allen anderen deiner eingesetzten Truppen +1 Stärke.\n\n<i>“Diese Flammen brannten für den Zaren. Lasst sie uns für die Revolution entfachen!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -492,10 +472,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -582,10 +558,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -668,10 +640,6 @@
               "data": {
                 "text": "Du hast pro Jahreszeit (außer Winter) einen zusätzlichen Jahreszeitenrabatt von 1. \n\n<b>Gefecht:</b> Bereite eine Karte aus deiner Hand oder einer anderen Jahreszeit an dieser Jahrszeit vor.\n\n<i>\"Rusviet weiß, dass es klug ist, seine wahre Stärke zu verbergen.\"</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -758,10 +726,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -844,10 +808,6 @@
               "data": {
                 "text": "Wenn Horchposten ins Spiel kommt und dein Gegner mehr Aufklärung hat als du: Gebe Horchposten einen +1 Aufklärungsmarker.\n\n<b>Zivil:</b> Wähle eine vorbereitete Karte: Drehe sie um.\n\n<i>“An einem schönen Tag sehen wir die Freuden unserer Landschaft und die Schrecken, die der Feind für uns bereit hält.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -942,10 +902,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1038,10 +994,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1126,10 +1078,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1207,10 +1155,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1285,10 +1229,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Löse diese Truppe auf: Setze die Stärke aller Karten in einer Einheit auf 0.\n\n<i>“Das Mutterland hat immer den längsten Atem.”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
@@ -1371,10 +1311,6 @@
               }
             },
             {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
-            },
-            {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
               "rotation": 0,
               "type": "text",
@@ -1449,10 +1385,6 @@
               "data": {
                 "text": "<b>Gefecht:</b> Gebe deinen eingesetzten Truppen +1 Stärke.\n\n<i>“Jeder kämpft für jeden anderen! Zum Sieg!”</i>"
               }
-            },
-            {
-              "blueprint_panel_id": "c3639276-47b5-4b67-8b9a-c406d0a4f8a6",
-              "rotation": 0
             },
             {
               "blueprint_panel_id": "cca4856a-269d-409b-a654-c9682bfdff6d",
